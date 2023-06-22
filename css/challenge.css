@@ -1,0 +1,190 @@
+*{
+    font-family: 'Mukta Mahee', sans-serif;
+    color: black !important;
+  }
+
+  header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    /*background-color: rgb(200, 200, 225);*/
+		background-color: #AABADF;
+  }
+  
+  ::-webkit-scrollbar {
+    display: none;
+}
+  #sitename{
+    position: fixed;
+    top: 34px;
+    left: 100px;
+    font-size: 2em;
+  }
+
+  #sitename1{
+    position: fixed;
+    top: 30px;
+    left: 30px;
+    font-size: 2em;
+  }
+  #links{
+    position: fixed;
+    top: 35px;
+    right: 230px;
+    font-size: 1.3em;
+  }
+  #pc-link{
+    position: fixed;
+    text-align: right;
+    top: 35px;
+    right: 30px;
+    font-size: 1.3em;
+  }
+  #list{
+    background: #BABADF;
+    position: fixed;
+    top: 100px;
+    left: 0;
+    width: 30%;
+    overflow-y: auto;
+  }
+  #additional-information{
+    background: #9AFB;
+    position: fixed;
+    top: 100px;
+    right: 0;
+    width: 30%;
+    overflow-y: auto;
+  }
+  #info{
+    background: #2BAAFF;
+    position: fixed;
+    top: 100px;
+    left: 30%;
+    width: 40%;
+    overflow-y: auto;
+  }
+  #inner-right-info{
+		background-color: #99ff;
+    padding: 1em;
+  }
+
+  #inner-info{
+		background-color: #9FABC5;
+    padding: 1em;
+  }
+
+  .entry{
+		background-color:#6AFC;
+    padding: 1em;
+  
+  }
+  .entry:nth-child(odd){
+    background: #7ea1d3;
+  }
+  .entry:hover{
+    background: #9AF;
+    cursor: pointer;
+    color:rgba(0, 0, 0,0.5) !important;
+  }
+  
+  A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
+  
+  .selected{
+    background: #0AAABB !important;
+  }
+  .author{
+    font-variant: small-caps;
+  }
+  #levelname{
+    font-size: 1.7em;
+    font-weight: bold;
+  
+  }
+  #levelauthor{
+    font-size: 1.1em;
+  }
+  #leveldescription{
+    font-size: 0.8em;
+    font-variant: small-caps;
+  
+  }
+  .vid{
+    width: 100%;
+  }
+  #records{
+    width: 100%;
+  }
+  #records-title{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+  }
+  #records-table{
+    width: 100%;
+  }
+  #explanation-simple-title{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+  }
+  #explanation-simple{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+  }
+  .interentry{
+    width: 100%;
+    padding: 0.5em;
+  }
+  .record-entry:nth-child(even){
+    background: rgb(231, 231, 231)
+  }
+  .record-entry:nth-child(odd){
+    background: rgb(224, 224, 224)
+  }
+  #block{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    color: black;
+    font-size: 3em;
+  }
+  .hacked{
+    background: red;
+    color: white;
+    font-weight: strong;
+    font-size: 0.4em;
+    padding: 0.4em;
+    border-radius: 1em;
+  }
+  .p-hacked{
+    background: rgb(255, 127, 127);
+    color: white;
+    font-weight: strong;
+    font-size: 0.4em;
+    padding: 0.4em;
+    border-radius: 1em;
+  }
+  #hi{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(219, 206, 255);
+    z-index: 99;
+  }
+  #user-rank {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  Swal {
+    color: black;
+  }
