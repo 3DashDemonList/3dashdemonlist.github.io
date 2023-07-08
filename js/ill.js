@@ -3,96 +3,137 @@ const d = {
     {
 			"vids": [
         {
-					"user": "Sombreras",
-					"link": "Link",
-					"percent": 0.4,
-					"hz": "60Hz"
+					"user": "Ayueshi",
+					"link": "https://www.youtube.com/watch?v=Rax_9zHKikk",
+					"percent": 2.52,
+          "hz": "60Hz"
 				},
-				
+        {
+					"user": "boro",
+					"link": "https://www.youtube.com/watch?v=y5Zk6XWLzDs",
+					"percent": 2.24,
+          "hz": "60Hz"
+				}
 			],
 			"name": "helloworld",
       
                     "author": "KaPiii []",
                     "id": 17,
 					          "diff": "Demon",
-      "extra": "Private server (3dash+)",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=SKdeugh8Npo",
-                    "key": 0
-			},
-			{
-			"vids": [
-				
-			],
-			"name": "Sakupen Hell",
-                    "author": "Mr.Pandequeso []",
-                    "id": 21033,
-					          "diff": "Demon",
-                    "percentToQualify": 0,
-                    "verificationVid": "https://www.youtube.com/watch?v=eX1m5V5e7tk",
-                    "key": 1
-			},	{
-			"vids": [
-				
-			],
-			"name": "3Death Corridor",
-                    "author": "Mr.Pandequeso []",
-                    "id": 19365,
-					          "diff": "Demon",
-                    "percentToQualify": 0,
-                    "verificationVid": "https://www.youtube.com/watch?v=uy2yg4WMJ1A",
-                    "key": 2
-			},	{
-        "vids": [
-        		{
-					"user": "Sombreras",
-					"link": "Link",
-					"percent": 7.683,
-					"hz": "60Hz"
-				},
-            ],
-      		"vids": [
-        		{
-					"user": "Bit",
-					"link": "https://youtu.be/JtZ1Rgv0EdU",
-					"percent": 6.833
-				}
-            ],
-            "name": "Wrath",
-                        "author": "Bit []",
-                        "id": 18275,
-                        "diff": "Demon",
-                        "percentToQualify": 0,
-                        "verificationVid": "https://www.youtube.com/watch?v=0fZ3lk2hYR4",
-                        "key": 3
-            },  {
-			"vids": [
-
-			],
-			"name": "Nerfed Back on Track",
-                    "author": "Mr.Pandequeso []",
-                    "id": 17369,
-					"diff": "Demon",
-                    "percentToQualify": 0,
-                    "verificationVid": "https://youtu.be/dZsxNgJXWR4",
-                    "key": 4
-			},  {
+                    "key": 0,
+                    "extra": "Max percentage is: 356"
+			},	
+      {
 			"vids": [
         {
-					"user": "Sombreras",
-					"link": "Link",
-					"percent": 5,
-					"hz": "60Hz"
-				},
-
+					"user": "boro",
+					"link": "https://www.youtube.com/watch?v=Gv4VmzNVY3s",
+					"percent": 1.26,
+          "hz": "60Hz"
+				}
 			],
+			"name": "Violence",
+      
+                    "author": "Monstrosity []",
+                    "id": 5637,
+					          "diff": "Demon",
+                    "percentToQualify": 0,
+                    "verificationVid": "https://www.youtube.com/watch?v=0tEZGabPWro",
+                    "key": 1,
+                    "extra": "Max percentage is: 1190"
+			},
+      {
+      
+      	"vids": [
+        {
+					"user": "Bit",
+					"link": "https://www.youtube.com/watch?v=d7BbrVMoMX4",
+					"percent": 15.6,
+          "hz": "60Hz"
+				},
+        {
+					"user": "Ayueshi",
+					"link": "https://www.youtube.com/watch?v=9SIawRh5r1c",
+					"percent": 15.6,
+          "hz": "60Hz"
+				},
+        {
+					"user": "boro",
+					"link": "https://www.youtube.com/watch?v=3saodYLPz6M",
+					"percent": 6.66,
+          "hz": "60Hz"
+				},
+        {
+					"user": "Sombreras",
+					"link": "https://youtu.be/EtD5tBN3cQ4?t=68",
+					"percent": 14.5,
+          "hz": "60Hz"
+				},
+      ],
+      "name": "Wrath",
+      "author": "Bit []",
+      "id": 6,
+      "diff": "Demon",
+      "percentToQualify": 0,
+      "verificationVid": "https://www.youtube.com/watch?v=0fZ3lk2hYR4",
+      "key": 2,
+      "extra": "Max percentage is: 600"
+      },  {
+			"vids": [
+        {
+					"user": "boro",
+					"link": "https://youtu.be/dko_julRQAQ",
+					"percent": 5.31,
+          "hz": "60Hz"
+				},
+        {
+					"user": "Ayueshi",
+					"link": "https://youtu.be/FhZgMLw-W9w",
+					"percent": 6.07,
+          "hz": "60Hz"
+				},
+        {
+					"user": "Bit",
+					"link": "https://www.youtube.com/watch?v=qn3TlchbljQ",
+					"percent": 5.56,
+          "hz": "60Hz"
+				},
+        {
+					"user": "PR9NI4EK1488",
+					"link": "https://www.youtube.com/watch?v=GT-0FVzC8RA",
+					"percent": 25.06,
+          "hz": "144Hz"
+				}
+      ],
 			"name": "maybe possible?",
-                    "author": "boro []",
-                    "id": 4767,
-					"diff": "Demon",
-                    "percentToQualify": 2,
-                    "verificationVid": "https://youtu.be/hMDt_W_QSx4",
-                    "key": 5
+      "author": "boro []",
+      "id": 4767,
+			"diff": "Demon",
+      "percentToQualify": 2,
+      "verificationVid": "https://youtu.be/hMDt_W_QSx4",
+      "key": 3,
+      "extra": "Max percentage is: 395"
+			},
+      {
+			"vids": [
+        {
+					"user": "boro",
+					"link": "https://www.youtube.com/watch?v=0BYyjOg1lK4",
+					"percent": 4.33,
+          "hz": "60Hz"
+				}			
+      ],
+			"name": "Slaughterhouse 1987 real",
+      
+                    "author": "Monstrosity []",
+                    "id": 5653,
+					          "diff": "Demon",
+                    "percentToQualify": 0,
+                    "verificationVid": "https://www.youtube.com/shorts/1CYP_nnGZl8",
+                    "key": 4,
+                    "extra": "Max percentage is: 554"
 			},
 		/*=================================================================================*/
 	],
