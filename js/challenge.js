@@ -35,7 +35,11 @@ const d = {
     }, 
     {
       "vids": [
-
+        {
+          "user": "bit",
+          "link": "https://youtu.be/HTaQT2G5XN0",
+          "percent": 52
+        }
       ],
       "name": "Prefinal Perfection",
       "author": "Sydno",
@@ -136,6 +140,11 @@ const d = {
     },     
     {
       "vids": [
+        {
+          "user": "Sombreras",
+          "link": "https://clipchamp.com/watch/uHE7TyCs5jh",
+          "percent": 100
+        }
 
       ],
       "name": "GUILT TRIP",
@@ -426,7 +435,11 @@ const d = {
     },     
     {
       "vids": [
-
+        {
+          "user": "Sombreras, the underaged",
+          "link": "https://youtu.be/rzN950I0m98",
+          "percent": 100
+        }
       ],
       "name": "Nhk!?",
       "author": "Ayueshi",
@@ -444,7 +457,18 @@ const d = {
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/Tz4qLUrQjQE",
       "key": 36
-    }, 
+    },
+    {
+       "vids": [
+      ],
+      "name": "MONSTROSITY",
+      "author": "Sombreras",
+      "id": "5687",
+      "verificationVid": "",
+      "percentToQualify": 100,
+      "extra": "https://clipchamp.com/watch/PMO9sU7JK4L",
+      "key": 37
+    },
     {
       "vids": [
 
@@ -454,7 +478,7 @@ const d = {
       "id": "347",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=yr0KUmLqFxg",
-      "key": 37
+      "key": 38
     }, 
     {
       "vids": [
@@ -469,7 +493,7 @@ const d = {
       "id": "3143",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/T-DChy0fz1c",
-      "key": 38
+      "key": 39
     },     
     {
       "vids": [
@@ -484,7 +508,7 @@ const d = {
       "id": "264",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=fm9JqwbYoBw",
-      "key": 39
+      "key": 40
     },     {
       "vids": [
         {
@@ -498,7 +522,7 @@ const d = {
       "id": "764",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=jqJOuz9ctHw",
-      "key": 40
+      "key": 41
     },     
     {
       "vids": [
@@ -518,7 +542,7 @@ const d = {
       "id": "302",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=h6dYHGcxUc4",
-      "key": 41
+      "key": 42
     },  {
       "vids": [
         {
@@ -532,7 +556,7 @@ const d = {
       "id": "306",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=_pKTYwS6G50",
-      "key": 42
+      "key": 43
     },  
     {
       "vids": [
@@ -543,7 +567,7 @@ const d = {
       "id": "4852",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/GgADqY2glTQ?t=179",
-      "key": 43
+      "key": 44
     },  
     {
       "vids": [
@@ -633,7 +657,7 @@ const d = {
       "id": "17398",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/6hg5-10PJsQ",
-      "key": 44
+      "key": 45
     }, {
       "vids": [
         {
@@ -700,14 +724,14 @@ const d = {
           "user": "zhyvelle",
           "link": "https://youtu.be/XwpKHGF8nUQ",
           "percent": 100
-        }.
+        }
       ],
       "name": "Hype",
       "author": "ShulkMode",
       "id": "18539",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/s5o-NserzUA",
-      "key": 45
+      "key": 46
     },
     {
       "vids": [
@@ -725,6 +749,11 @@ const d = {
           "user": "Bit",
           "link": "https://www.youtube.com/watch?v=tUrHcsIqnf0",
           "percent": 100
+        },
+        {
+          "user": "Sombreras",
+          "link": "https://clipchamp.com/watch/8T4E43JNOCL",
+          "percent": 100
         }
       ],
       "name": "Mean",
@@ -732,18 +761,19 @@ const d = {
       "id": "3272",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=Vchw5TsnMeg",
-      "key": 46
-    },
+      "key": 47
+    }, 
     {
       "vids": [
         
       ],
       "name": "chall cause im bored",
-      "author": "Somero",
+      "author": "Sombreras",
       "id": "5724",
-      "percentToQualify": "idk man",
-      "verificationVid": "https://clipchamp.com/watch/0WDbXvpJrlq",
-      "key": 47
+      "percentToQualify": 100,
+      "verificationVid": "",
+      "extra": "https://clipchamp.com/watch/0WDbXvpJrlq",
+      "key": 48
     },
     /*=================================================================================*/
   ],

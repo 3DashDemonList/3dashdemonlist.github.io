@@ -86,7 +86,12 @@ const d = {
           "user": "Valts",
           "link": "https://youtu.be/a2TpWwXeNE8",
           "percent": 100
-        }
+        },
+        {
+					"user": "PR9NI4EK1488",
+					"link": "https://www.youtube.com/watch?v=D89vzlDXQjo",
+					"percent": 100,
+				}
       ],
       "name": "The Rock House",
       "author": "Zippiks [Player Name]",
@@ -106,12 +111,33 @@ const d = {
       "verificationVid": "https://youtu.be/H1SQ0SRBP0s",
       "key": 8
     },
-    
     {
       "vids": [
+        
+      ],
+      "name": "Shadow Siege v2",
+      "author": "Player Name",
+      "id": " 4688",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=wZXQI8DA8GU",
+      "key": 9
+    },
+    {
+      "vids": [
+       
         {
           "user": "Valts",
           "link": "https://youtu.be/rpbN0ExIwUc?t=137",
+          "percent": 100
+        },
+        {
+          "user": "Smarto",
+          "link": "https://youtu.be/W-qKtHuhKLQ",
+          "percent": 100
+        },
+         {
+          "user": "Player Name",
+          "link": "https://youtu.be/OyURGpOx7Do?t=447",
           "percent": 100
         }
       ],
@@ -119,8 +145,8 @@ const d = {
       "author": "DelugeDrop",
       "id": "Main Level",
       "percentToQualify": 100,
-      "verificationVid": "",
-      "key": 9
+      "verificationVid": "https://youtu.be/OyURGpOx7Do?t=447",
+      "key": 10
     },
     
     {
@@ -136,7 +162,7 @@ const d = {
       "id": "5317",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=ajN3JIz0g_Y",
-      "key": 10
+      "key": 11
     },
     {
       "vids": [
@@ -144,14 +170,24 @@ const d = {
           "user": "Valts",
           "link": "https://www.youtube.com/watch?v=jxhJyNv78Ro",
           "percent": 100
+        },
+        {
+          "user": "Smarto",
+          "link": "https://youtu.be/siBPQ38Hgj8",
+          "percent": 100
+        },
+        {
+          "user": "Player Name",
+          "link": "https://youtu.be/5YZl7FfSPU4?t=182",
+          "percent": 100
         }
       ],
       "name": "Moon Raiders",
       "author": "DelugeDrop",
       "id": "Main Level",
       "percentToQualify": 100,
-      "verificationVid": "",
-      "key": 11
+      "verificationVid": "https://youtu.be/5YZl7FfSPU4?t=182",
+      "key": 12
     },
     {
       "vids": [
@@ -172,7 +208,7 @@ const d = {
       "id": "3714",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/z6axDCYUdzc",
-      "key": 12
+      "key": 13
     }, 
     {
       "vids": [
@@ -202,7 +238,7 @@ const d = {
       "id": "3 (WoW)",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/nNnkL9CPBds",
-      "key": 13
+      "key": 14
     },  
     {
       "vids": [
@@ -222,7 +258,7 @@ const d = {
       "id": "5128",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/jMkUtiWwDQ8",
-      "key": 14
+      "key": 15
     }, {
       "vids": [
       ],
@@ -231,59 +267,82 @@ const d = {
       "id": "1348",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/PFZY1_Zuumw",
-      "key": 15
+      "key": 16
     }, {
       "vids": [
+        {
+          "user": "PR9NI4EK",
+          "link": "https://youtu.be/WcS8VAKSzUA",
+          "percent": 100
+        }
       ],
       "name": "Extremeness",
       "author": "boro [Mr.Pandequeso]",
       "id": "3755",
       "percentToQualify": 80,
       "verificationVid": "https://www.youtube.com/watch?v=4tBLjTmnm2A",
-      "key": 16
+      "key": 17
     }, {
       "vids": [
         {
 					"user": "PR9NI4EK1488",
 					"link": "https://youtu.be/Jq1KXRmTR50?t=86",
 					"percent": 100,
-				}
+				},
+        {
+          "user": "Player Name",
+          "link": "https://youtu.be/LhLS7EZdp7g",
+          "percent": 100
+        }
       ],
       "name": "Silent Clubstep",
       "author": "RBLXChaos",
       "id": "3510",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/B5MNwvEMdag",
-      "key": 17
+      "key": 18
     }, {
       "vids": [
-
+        {
+					"user": "PR9NI4EK1488",
+					"link": "https://www.youtube.com/watch?v=egYym2JJeok",
+					"percent": 100,
+				}
       ],
       "name": "Darkness",
       "author": "Mcat",
       "id": "5129",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=IP3DpKoU8QU",
-      "key": 18
+      "key": 19
     }, {
       "vids": [
+        {
+        "user": "Player Name",
+        "link": "https://youtu.be/dgC-v0qc2WQ",
+        "percent": 100
+        }
       ],
       "name": "TheLevelBelowSucks",
       "author": "KarolFTP",
       "id": "3607",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4QVNtcaEeT0",
-      "key": 19
+      "key": 20
     }, {
       "vids": [
-        
+        {
+          "user": "Player Name",
+          "link": "https://youtu.be/LhLS7EZdp7g",
+          "percent": 100
+        }
       ],
       "name": "Little Big Planet",
       "author": "calamar",
       "id": "5130",
       "percentToQualify": 75,
       "verificationVid": "https://youtu.be/sE8yXUJ_JNc",
-      "key": 20
+      "key": 21
     }, {
       "vids": [
       ],
@@ -292,7 +351,7 @@ const d = {
       "id": "5132",
       "percentToQualify": 90,
       "verificationVid": "https://youtu.be/P8OJlJXaakg",
-      "key": 21
+      "key": 22
     }, {
       "vids": [
         {
@@ -307,7 +366,7 @@ const d = {
       "percentToQualify": 100,
       "verificationVid": "",
       "extra": "https://drive.google.com/drive/folders/1rDFawlkILy2JJwXx-9j5wWWRmo-emZK-",
-      "key": 22
+      "key": 23
     }, {
       "vids": [
 
@@ -317,7 +376,7 @@ const d = {
       "id": "3271",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/xtIgqMMq_ro",
-      "key": 23
+      "key": 24
     }, {
       "vids": [
 
@@ -327,16 +386,21 @@ const d = {
       "id": "3841",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/v7rWaUBBZJk",
-      "key": 24
+      "key": 25
     }, {
       "vids": [
+        {
+          "user": "Player Name",
+          "link": "https://youtu.be/I3z-6mAIJEU",
+          "percent": 100
+        }
       ],
       "name": "CyberZone",
       "author": " duckinpop23 [sydno]",
       "id": "5163",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/U_8KSb1KFa0",
-      "key": 25
+      "key": 26
     }, {
       "vids": [
 
@@ -346,7 +410,7 @@ const d = {
       "id": "3229",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4S3Ip48OV3U",
-      "key": 26
+      "key": 27
     }, 
     {
       "vids": [
@@ -357,7 +421,7 @@ const d = {
       "id": "317",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/0Egcd_WcnJI",
-      "key": 27
+      "key": 28
     }, {
       "vids": [
         {
@@ -376,7 +440,7 @@ const d = {
       "id": "176",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Mlq2lXM657I",
-      "key": 28
+      "key": 29
     }, {
       "vids": [
         {
@@ -455,7 +519,7 @@ const d = {
       "id": "5133",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/boBQUDtTBOo",
-      "key": 29
+      "key": 30
     },
     {
       "vids": [
@@ -485,7 +549,7 @@ const d = {
       "id": "58",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=hi1zAE6ozQ8",
-      "key": 30
+      "key": 31
     },
     {
       "vids": [
@@ -510,7 +574,7 @@ const d = {
       "id": "83",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=kJt0-nk1A5o",
-      "key": 31
+      "key": 32
     },
     /*=================================================================================*/
   ],

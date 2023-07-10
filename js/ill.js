@@ -44,6 +44,18 @@ const d = {
                     "key": 1,
                     "extra": "Max percentage is: 1190"
 			},
+    {
+      "vids": [
+        
+      ],
+      "name": "Genesis",
+      "author": "Monstrocity",
+      "id": 5683,
+      "percentToQualify": 0,
+      "verificationVid": "https://www.youtube.com/watch?v=lv0Uan9YfGA",
+      "key": 2,
+      "extra": "Max percentage is: ~600"
+    },
       {
       
       	"vids": [
@@ -78,7 +90,7 @@ const d = {
       "diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=0fZ3lk2hYR4",
-      "key": 2,
+      "key": 3,
       "extra": "Max percentage is: 600"
       },  {
 			"vids": [
@@ -113,7 +125,7 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 2,
       "verificationVid": "https://youtu.be/hMDt_W_QSx4",
-      "key": 3,
+      "key": 4,
       "extra": "Max percentage is: 395"
 			},
       {
@@ -132,7 +144,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/shorts/1CYP_nnGZl8",
-                    "key": 4,
+                    "key": 5,
                     "extra": "Max percentage is: 554"
 			},
 		/*=================================================================================*/
