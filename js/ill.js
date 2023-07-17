@@ -49,7 +49,7 @@ const d = {
         
       ],
       "name": "Genesis",
-      "author": "Monstrocity",
+      "author": "Monstrosity []",
       "id": 5683,
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=lv0Uan9YfGA",
@@ -128,6 +128,19 @@ const d = {
       "key": 4,
       "extra": "Max percentage is: 395"
 			},
+    {
+			"vids": [
+
+      ],
+			"name": "I Cry",
+      "author": "boro []",
+      "id": 5920,
+			"diff": "Demon",
+      "percentToQualify": 0,
+      "verificationVid": "https://www.youtube.com/watch?v=8tQCPhFj1ac",
+      "key": 5,
+      "extra": "Max percentage is: 107"
+			},
       {
 			"vids": [
         {
@@ -143,7 +156,7 @@ const d = {
                     "id": 5653,
 					          "diff": "Demon",
                     "percentToQualify": 0,
-                    "verificationVid": "https://www.youtube.com/shorts/1CYP_nnGZl8",
+                    "verificationVid": "https://www.youtube.com/watch?v=1CYP_nnGZl8",
                     "key": 5,
                     "extra": "Max percentage is: 554"
 			},

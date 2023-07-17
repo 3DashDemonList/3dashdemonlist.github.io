@@ -39,7 +39,12 @@ const d = {
           "user": "bit",
           "link": "https://youtu.be/HTaQT2G5XN0",
           "percent": 52
-        }
+        },
+        {
+					"user": "Goose",
+					"link": "https://www.youtube.com/watch?v=73tqlNU4AGM",
+					"percent": 100
+				}
       ],
       "name": "Prefinal Perfection",
       "author": "Sydno",
@@ -91,7 +96,11 @@ const d = {
     }, 
     {
       "vids": [
-
+        {
+          "user": "Sombreras",
+          "link": "https://youtu.be/mtWe8ZAytD4",
+          "percent": 56
+        }
       ],
       "name": "Pinnacle Precision",
       "author": "Sydno",
@@ -486,6 +495,11 @@ const d = {
           "user": "Valts",
           "link": "https://youtu.be/rYhOUGagx7U?t=477",
           "percent": 100
+        },
+        {
+          "user": "Sombreras",
+          "link": "https://youtu.be/iGXUmXMOqVc?t=321",
+          "percent": 100
         }
       ],
       "name": "Nonsensical Existance",
@@ -650,7 +664,12 @@ const d = {
           "user": "SergioDoesYT",
           "link": "https://youtu.be/4aMhFuHPTQU",
           "percent": 100
-        }
+        },
+        {
+					"user": "Sombreras",
+					"link": "https://clipchamp.com/watch/jeC6vriLMiN",
+					"percent": 100
+				}
       ],
       "name": "Wave Challenge",
       "author": "Spenguin",
