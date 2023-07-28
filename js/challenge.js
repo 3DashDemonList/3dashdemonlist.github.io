@@ -1,3 +1,15 @@
+// {
+//      "vids": [
+//    ],
+//   "name": "Placeholder",
+//   "author": "to be added",
+//   "id": "to be added",
+//     "percentToQualify": 100,
+//   "extra": "Placeholder until added",
+//   "verificationVid": "",
+//   "key": 57
+// },
+
 const d = {
   "list": [
     {
@@ -61,6 +73,11 @@ const d = {
           "percent": 100
         },
         {
+          "user": "ChaseLux",
+          "link": "https://www.youtube.com/watch?v=8rPPFWyQ-Lc",
+          "percent": 78
+        },
+        {
           "user": "Bit",
           "link": "https://www.youtube.com/watch?v=B8rFA6eFvg8",
           "percent": 50
@@ -96,6 +113,21 @@ const d = {
     }, 
     {
       "vids": [
+         {
+          "user": "Valts",
+          "link": "https://youtu.be/t3kGX3A5p5U",
+          "percent": 100
+        }
+      ],
+      "name": "8 Jumps of Perfection",
+      "author": "KaPiii [sydno]",
+      "id": "313",
+      "percentToQualify": 50,
+      "verificationVid": "https://www.youtube.com/watch?v=_n2lGsdLV3Y",
+      "key": 7
+    }, 
+    {
+      "vids": [
         {
           "user": "Sombreras",
           "link": "https://youtu.be/mtWe8ZAytD4",
@@ -107,7 +139,7 @@ const d = {
       "id": "1182",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=CuMXhtuQS-0",
-      "key": 7
+      "key": 8
     }, 
     {
       "vids": [
@@ -118,7 +150,7 @@ const d = {
       "id": "460",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=Aim-rvzOmW8",
-      "key": 8
+      "key": 9
     }, 
     {
       "vids": [
@@ -134,7 +166,7 @@ const d = {
       "id": "767",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=HNPcPdZlNbY",
-      "key": 9
+      "key": 10
     },
     {
       "vids": [
@@ -145,23 +177,38 @@ const d = {
       "id": "3250",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/s5cLqLvvub4",
-      "key": 10
-    },     
+      "key": 11
+    },
+    {
+      "vids": [
+
+      ],
+      "name": "Answering Allah",
+      "author": "Ayueshi [Valts]",
+      "id": "6103",
+      "percentToQualify": 100,
+      "verificationVid": "https://youtu.be/LDABBGsjz_I",
+      "key": 12
+    },
     {
       "vids": [
         {
           "user": "Sombreras",
           "link": "https://clipchamp.com/watch/uHE7TyCs5jh",
           "percent": 100
+        },
+        {
+          "user": "ChaseLux",
+          "link": "https://www.youtube.com/watch?v=A_VSzjvakmM",
+          "percent": 66.66
         }
-
       ],
       "name": "GUILT TRIP",
       "author": "Sydno",
       "id": "3095",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=LeVtXLLjSU8",
-      "key": 11
+      "key": 13
     }, 
     {
       "vids": [
@@ -186,8 +233,19 @@ const d = {
       "id": "3073",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/ix-41uuF4Xc",
-      "key": 12
+      "key": 14
     }, 
+    {
+      "vids": [
+
+      ],
+      "name": "Final Fantasy",
+      "author": "ChaseLux",
+      "id": "6255",
+      "percentToQualify": 50,
+      "verificationVid": "https://www.youtube.com/watch?v=PT0b7GtCNQA",
+      "key": 15
+    },
     {
       "vids": [
 
@@ -197,23 +255,7 @@ const d = {
       "id": "1126",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=11G1jnTXO1M",
-      "key": 13
-    }, 
-    {
-      "vids": [
-         {
-          "user": "Valts",
-          "link": "https://youtu.be/t3kGX3A5p5U",
-          "percent": 100
-        }
-
-      ],
-      "name": "8 Jumps of Perfection",
-      "author": "KaPiii [sydno]",
-      "id": "313",
-      "percentToQualify": 50,
-      "verificationVid": "https://www.youtube.com/watch?v=_n2lGsdLV3Y",
-      "key": 14
+      "key": 16
     }, 
     {
       "vids": [
@@ -224,7 +266,7 @@ const d = {
       "id": "588",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/MZT6srZOVIU?t=26",
-      "key": 15
+      "key": 17
     },
         {
       "vids": [
@@ -235,7 +277,7 @@ const d = {
       "id": "1176",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=Y7KB4p7JfMw",
-      "key": 16
+      "key": 18
     }, 
     {
       "vids": [
@@ -246,7 +288,7 @@ const d = {
       "id": "407",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=mJlA9lbF6Dw",
-      "key": 17
+      "key": 19
     }, 
     {
       "vids": [
@@ -257,7 +299,7 @@ const d = {
       "id": "3202",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/QtoKB_UvvCU",
-      "key": 18
+      "key": 20
     },
     {
       "vids": [
@@ -265,6 +307,11 @@ const d = {
           "user": "Bit",
           "link": "https://youtu.be/Y3PVGewXpy0",
           "percent": 71
+        },
+        {
+          "user": "ChaseLux",
+          "link": "https://www.youtube.com/watch?v=vv_cNBM8Hfw",
+          "percent": 51.94
         }
       ],
       "name": "Epilogue",
@@ -272,7 +319,7 @@ const d = {
       "id": "362",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=i_8NoQv3mgI",
-      "key": 19
+      "key": 21
     }, 
     {
       "vids": [
@@ -287,8 +334,20 @@ const d = {
       "id": "775",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=YzHtveIc45s",
-      "key": 20
+      "key": 22
     }, 
+    {
+      "vids": [
+
+      ],
+      "name": "Valts Challenge",
+      "author": "Ayueshi",
+      "id": "6280",
+      "extra": "LDM: 6272",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=_jbsqRqoi6A",
+      "key": 23
+    },
     {
       "vids": [
 
@@ -298,8 +357,8 @@ const d = {
       "id": "476",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=RtYbf1CCAA4",
-      "key": 21
-    },     
+      "key": 24
+    },
     {
       "vids": [
 
@@ -309,29 +368,53 @@ const d = {
       "id": "342",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=V7JA5AQdmCM",
-      "key": 22
+      "key": 25
     },     
     {
       "vids": [
-
+        {
+					"user": "fWite",
+					"link": "https://youtu.be/oT58l015zVQ?t=615",
+					"percent": 100
+				},
+        {
+          "user": "ChaseLux",
+          "link": "https://www.youtube.com/watch?v=A_VSzjvakmM",
+          "percent": 100
+        },
       ],
       "name": "Apathetic Anger",
       "author": "Sydno",
       "id": "3064",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/LsYZgmGm5wE",
-      "key": 23
-    },     
+      "key": 26
+    },
     {
       "vids": [
-
+        
+      ],
+      "name": "HEATWAVE",
+      "author": "fWite",
+      "id": 6110,
+      "percentToqualify": 50,
+      "verificationVid": "https://youtu.be/KcXz0XIYwPU?t=622",
+      "key": 27
+    },
+    {
+      "vids": [
+        {
+					"user": "fWite",
+					"link": "https://youtu.be/p_00-q7V8w8?t=1807",
+					"percent": 100
+				}
       ],
       "name": "Muhammed Chungus",
       "author": "Sydno",
       "id": "1047",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=5DxZczbRSY4",
-      "key": 24
+      "key": 28
     },     
     {
       "vids": [
@@ -342,7 +425,7 @@ const d = {
       "id": "169",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=--XiF809cEQ",
-      "key": 25
+      "key": 29
     },     
     {
       "vids": [
@@ -353,7 +436,7 @@ const d = {
       "id": "105",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=0wUO0GfiRLw",
-      "key": 26
+      "key": 30
     },     {
       "vids": [
 
@@ -363,7 +446,7 @@ const d = {
       "id": "3260",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=YkOZAnKXWUE",
-      "key": 27
+      "key": 31
     },     
     {
       "vids": [
@@ -374,7 +457,7 @@ const d = {
       "id": "421",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=JX0tCO6ZUkg",
-      "key": 28
+      "key": 32
     },
     {
       "vids": [
@@ -385,7 +468,7 @@ const d = {
       "id": "1275",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=AvrGNePCVS8",
-      "key": 29
+      "key": 33
     }, 
     {
       "vids": [
@@ -396,7 +479,7 @@ const d = {
       "id": "768",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=z7U5DasmJOs",
-      "key": 30
+      "key": 34
     },     
     {
       "vids": [
@@ -407,7 +490,7 @@ const d = {
       "id": "394",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=MLMKuyCkhFs",
-      "key": 31
+      "key": 35
     },     
     {
       "vids": [
@@ -418,7 +501,7 @@ const d = {
       "id": "769",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=h-tggMSGcx0&t=18s",
-      "key": 32
+      "key": 36
     },     
     {
       "vids": [
@@ -429,7 +512,7 @@ const d = {
       "id": "538",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/MZT6srZOVIU?t=10",
-      "key": 33
+      "key": 37
     },    
     {
       "vids": [
@@ -440,12 +523,24 @@ const d = {
       "id": "483",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/RtYbf1CCAA4?t=10",
-      "key": 34
-    },     
+      "key": 38
+    },
+    {
+      "vids": [
+
+      ],
+      "name": "Ice Trials",
+      "author": "JujuPX",
+      "id": "6360",
+      "percentToQualify": 50,
+      "verificationVid": "https://www.youtube.com/watch?v=rkavYPMBCZk",
+      "key": 39
+    },
+    
     {
       "vids": [
         {
-          "user": "Sombreras, the underaged",
+          "user": "Sombreras",
           "link": "https://youtu.be/rzN950I0m98",
           "percent": 100
         }
@@ -455,7 +550,7 @@ const d = {
       "id": "3376",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/PPXfd6ejnLs",
-      "key": 35
+      "key": 40
     },     {
       "vids": [
 
@@ -465,7 +560,7 @@ const d = {
       "id": "3326",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/Tz4qLUrQjQE",
-      "key": 36
+      "key": 41
     },
     {
        "vids": [
@@ -476,18 +571,22 @@ const d = {
       "verificationVid": "",
       "percentToQualify": 100,
       "extra": "https://clipchamp.com/watch/PMO9sU7JK4L",
-      "key": 37
+      "key": 42
     },
     {
       "vids": [
-
+        {
+					"user": "fWite",
+					"link": "https://youtu.be/k6kKtXmbHcM?t=81",
+					"percent": 100
+				}
       ],
       "name": "capybara",
       "author": "Bit",
       "id": "347",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=yr0KUmLqFxg",
-      "key": 38
+      "key": 43
     }, 
     {
       "vids": [
@@ -507,13 +606,18 @@ const d = {
       "id": "3143",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/T-DChy0fz1c",
-      "key": 39
+      "key": 44
     },     
     {
       "vids": [
         {
           "user": "Valts",
           "link": "https://youtu.be/a2TpWwXeNE8?t=158",
+          "percent": 100
+        },
+        {
+          "user": "ChaseLux",
+          "link": "https://www.youtube.com/watch?v=ePROmDJ9s7M",
           "percent": 100
         }
       ],
@@ -522,7 +626,7 @@ const d = {
       "id": "264",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=fm9JqwbYoBw",
-      "key": 40
+      "key": 45
     },     {
       "vids": [
         {
@@ -536,7 +640,7 @@ const d = {
       "id": "764",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=jqJOuz9ctHw",
-      "key": 41
+      "key": 46
     },     
     {
       "vids": [
@@ -556,32 +660,81 @@ const d = {
       "id": "302",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=h6dYHGcxUc4",
-      "key": 42
-    },  {
+      "key": 47
+    },  
+    {
+      "vids": [
+        {
+          "user": "Exvie",
+          "link": "https://youtu.be/58mVdWsvl-Y?t=10",
+          "percent": 100
+        }
+      ],
+      "name": "god of wave Z",
+      "author": "sydno [Sombreras]",
+      "id": "579",
+      "percentToQualify": 100,
+      "verificationVid": "https://youtu.be/sbHSHVJHNkI?t=19",
+      "key": 48
+    },
+    {
+      "vids": [
+        {
+          "user": "ChaseLux",
+          "link": "https://youtu.be/c9G4SjUGO40?t=16",
+          "percent": 100
+        },
+      ],
+      "name": "🤓",
+      "author": "Zippiks",
+      "id": "6127",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=MAnhLIPotwY",
+      "key": 49
+    },{
       "vids": [
         {
           "user": "Valts",
           "link": "https://www.youtube.com/watch?v=J8mf-2B_Abc",
           "percent": 100
-        }
+        },
+        {
+          "user": "ChaseLux",
+          "link": "https://youtu.be/c9G4SjUGO40",
+          "percent": 100
+        },
       ],
       "name": "Sydno Always Clear",
       "author": "Ayueshi",
       "id": "306",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=_pKTYwS6G50",
-      "key": 43
+      "key": 50
     },  
     {
       "vids": [
-
+        {
+          "user": "ChaseLux",
+          "link": "https://youtu.be/ePROmDJ9s7M?t=9",
+          "percent": 100
+        },
+        {
+          "user": "fWite",
+          "link": "https://youtu.be/eXPbI18gcwg?t=70",
+          "percent": 100
+        },
+        {
+          "user": "Exvie",
+          "link": "https://youtu.be/YPK8OtzLWho",
+          "percent": 100
+        }
       ],
       "name": "3SH",
       "author": "Sombreras",
       "id": "4852",
       "percentToQualify": 50,
       "verificationVid": "https://youtu.be/GgADqY2glTQ?t=179",
-      "key": 44
+      "key": 51
     },  
     {
       "vids": [
@@ -673,10 +826,10 @@ const d = {
       ],
       "name": "Wave Challenge",
       "author": "Spenguin",
-      "id": "17398",
+      "id": "295",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/6hg5-10PJsQ",
-      "key": 45
+      "key": 52
     }, {
       "vids": [
         {
@@ -743,14 +896,19 @@ const d = {
           "user": "zhyvelle",
           "link": "https://youtu.be/XwpKHGF8nUQ",
           "percent": 100
+        },
+        {
+          "user": "kBruh GD",
+          "link": "https://www.youtube.com/watch?v=XXffCkVjM6w",
+          "percent": 100
         }
       ],
       "name": "Hype",
       "author": "ShulkMode",
-      "id": "18539",
+      "id": "292",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/s5o-NserzUA",
-      "key": 46
+      "key": 53
     },
     {
       "vids": [
@@ -773,6 +931,11 @@ const d = {
           "user": "Sombreras",
           "link": "https://clipchamp.com/watch/8T4E43JNOCL",
           "percent": 100
+        },
+        {
+          "user": "ChaseLux",
+          "link": "https://www.youtube.com/watch?v=ZDkiURGGp6Q",
+          "percent": 100
         }
       ],
       "name": "Mean",
@@ -780,11 +943,15 @@ const d = {
       "id": "3272",
       "percentToQualify": 50,
       "verificationVid": "https://www.youtube.com/watch?v=Vchw5TsnMeg",
-      "key": 47
+      "key": 54
     }, 
     {
       "vids": [
-        
+        {
+          "user": "ChaseLux",
+          "link": "https://www.youtube.com/watch?v=ZDkiURGGp6Q",
+          "percent": 100
+        }
       ],
       "name": "chall cause im bored",
       "author": "Sombreras",
@@ -792,8 +959,19 @@ const d = {
       "percentToQualify": 100,
       "verificationVid": "",
       "extra": "https://clipchamp.com/watch/0WDbXvpJrlq",
-      "key": 48
+      "key": 55
     },
+    {
+      "vids": [
+      ],
+      "name": "HORSE",
+      "author": "Zippiks",
+      "id": "6202",
+      "percentToQualify": 100,
+      "verificationVid": "https://youtu.be/e6DQQNccpsM",
+      "key": 56
+    },
+    
     /*=================================================================================*/
   ],
   "version": [

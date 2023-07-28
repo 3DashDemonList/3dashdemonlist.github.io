@@ -74,6 +74,9 @@
 					<li>
 						<a>Ayueshi</a>
           </li>
+                      <li>
+						<a>Bitmaybe</a>
+          </li>
      <li>                 						<a>Need Support? Contact Me at: 3dashdemonlist@gmail.com (i got no budget for some kind of buisness email)</a>
                     </li>
                 </div>
@@ -255,7 +258,8 @@
             legacy_count++;
         }
     }
-    $("#version-node").text("(v" + version[0] + "." + version[1] + "." + version[2] + ")");
+      // this shit complicated
+    $("#version-node").text("(v" + version[0] + "." + version[0] + "." + version[1] + ")");
     list.sort(function(a, b) {
         var legacy_count = 0;
         for (var i = 0; i < list.length; i++) {

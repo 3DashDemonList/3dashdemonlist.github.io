@@ -45,7 +45,7 @@ so it goes on..
 
 # Adding Records
 
-~~To Add Records you need a Application and use google forms which will work the best in this case. Replace the form links in the **index.html** file.~~ (Ignore this)
+Adding Records Is pretty simple.
 
 ```javascript
 

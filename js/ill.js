@@ -25,6 +25,23 @@ const d = {
                     "key": 0,
                     "extra": "Max percentage is: 356"
 			},	
+    {
+      "vids": [
+        {
+					"user": "Ayueshi",
+					"link": "https://www.youtube.com/watch?v=1j6Oqk4Tkvg",
+					"percent": 2.96,
+          "hz": "60Hz"
+				}
+      ],
+      "name": "ERA GOL DE YEPES",
+      "author": "Mr.Pandequeso []",
+      "id": 6246,
+      "percentToQualify": 0,
+      "verificationVid": "https://youtu.be/wrzwdim4P2g",
+      "key": 1,
+      "extra": "Max percentage is: 439"
+    },
       {
 			"vids": [
         {
@@ -41,21 +58,9 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=0tEZGabPWro",
-                    "key": 1,
+                    "key": 2,
                     "extra": "Max percentage is: 1190"
 			},
-    {
-      "vids": [
-        
-      ],
-      "name": "Genesis",
-      "author": "Monstrosity []",
-      "id": 5683,
-      "percentToQualify": 0,
-      "verificationVid": "https://www.youtube.com/watch?v=lv0Uan9YfGA",
-      "key": 2,
-      "extra": "Max percentage is: ~600"
-    },
       {
       
       	"vids": [
@@ -83,6 +88,12 @@ const d = {
 					"percent": 14.5,
           "hz": "60Hz"
 				},
+          {
+					"user": "ChaseLux",
+					"link": "https://www.youtube.com/watch?v=5JMVsGR6ZNE",
+					"percent": 16.66,
+          "hz": "144Hz"
+        },
       ],
       "name": "Wrath",
       "author": "Bit []",
@@ -130,7 +141,18 @@ const d = {
 			},
     {
 			"vids": [
-
+        {
+					"user": "boro",
+					"link": "https://www.youtube.com/watch?v=XaVwUFsPI4A",
+					"percent": 17.75,
+          "hz": "60Hz"
+				},
+        {
+					"user": "Ayueshi",
+					"link": "https://youtu.be/1j6Oqk4Tkvg?t=7",
+					"percent": 20.56,
+          "hz": "60Hz"
+				}
       ],
 			"name": "I Cry",
       "author": "boro []",
@@ -148,7 +170,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0BYyjOg1lK4",
 					"percent": 4.33,
           "hz": "60Hz"
-				}			
+				},
       ],
 			"name": "Slaughterhouse 1987 real",
       
@@ -157,8 +179,62 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=1CYP_nnGZl8",
-                    "key": 5,
+                    "key": 6,
                     "extra": "Max percentage is: 554"
+			},
+    {
+			"vids": [
+        {
+					"user": "boro",
+					"link": "https://www.youtube.com/watch?v=OC5kORvV5x0",
+					"percent": 9.57,
+          "hz": "60Hz"
+        },
+        {
+					"user": "ChaseLux",
+					"link": "https://www.youtube.com/watch?v=Qbda0vY0Xp4",
+					"percent": 18.61,
+          "hz": "144Hz"
+        },
+        {
+					"user": "Bit",
+					"link": "https://www.youtube.com/watch?v=fpNxz1xZAqg",
+					"percent": 25.53,
+          "hz": "60Hz"
+        },
+      ],
+			"name": "3SH in Hell",
+      "author": "boro []",
+      "id": 6247,
+			"diff": "Demon",
+      "percentToQualify": 0,
+      "verificationVid": "https://www.youtube.com/watch?v=8BUwQjYmQHk",
+      "key": 7,
+      "extra": "Max percentage is: 188"
+			},
+    {
+			"vids": [
+        {
+					"user": "ChaseLux",
+					"link": "https://www.youtube.com/watch?v=h4HOTG2l2RE",
+					"percent": 10.8,
+          "hz": "144Hz"
+        },
+        {
+					"user": "boro",
+					"link": "https://www.youtube.com/watch?v=WGUV1ZyA3cg",
+					"percent": 8.24,
+          "hz": "60Hz"
+        }
+      ],
+			"name": "Paraballa",
+      "author": "boro []",
+      "id": 5950,
+			"diff": "Demon",
+      "percentToQualify": 0,
+      "verificationVid": "https://www.youtube.com/watch?v=VnyTN98nOS8",
+      "key": 8,
+      "extra": "Max percentage is: 194"
 			},
 		/*=================================================================================*/
 	],
