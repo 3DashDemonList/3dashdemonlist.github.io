@@ -184,6 +184,11 @@ const d = {
           "user": "Valts",
           "link": "https://www.youtube.com/watch?v=CV43GRwz9Xo",
           "percent": 100
+        },
+        {
+          "user": "Mogaboss",
+          "link": "https://www.youtube.com/watch?v=OWTX4vFAiRc",
+          "percent": 100
         }
       ],
       "name": "Shadow Siege v2",
@@ -310,6 +315,11 @@ const d = {
         {
           "user": "Player Name",
           "link": "https://www.youtube.com/watch?v=163xZDl53sE",
+          "percent": 100
+        },
+        {
+          "user": "Mogaboss",
+          "link": "https://www.youtube.com/watch?v=G7icHiJ6eL0",
           "percent": 100
         }
         
@@ -627,6 +637,11 @@ const d = {
           "link": "https://youtu.be/Cj-LJO3QGlk?t=167",
           "percent": 100
         },
+        {
+          "user": "Mogaboss",
+          "link": "https://www.youtube.com/watch?v=L4JiXVeEP_M",
+          "percent": 100
+        }
       ],
       "name": "Blit-Z",
       "author": "Zippiks",
@@ -680,6 +695,11 @@ const d = {
         {
           "user": "Valts",
           "link": "https://youtu.be/TqRXWKN69h0",
+          "percent": 100
+        },
+        {
+          "user": "Mogaboss",
+          "link": "https://www.youtube.com/watch?v=IWbvlHJr-_k",
           "percent": 100
         }
       ],

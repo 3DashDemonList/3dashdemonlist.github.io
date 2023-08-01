@@ -2,29 +2,29 @@
 <html>
 
 <head>
-    <title>3Dash Demon List</title>
+    <title>3Dash impossible levels list</title>
     <link href="//fonts.googleapis.com/css?family=Mukta+Mahee:200,400,700" rel="stylesheet">
-    <link href="css/stylesheet.css" type="text/css" rel="stylesheet">
-    <link rel="shortcut icon" href="assets/logo.png" type="image/x-icon">
-    <meta name="description" content="The hardest demons in 3Dash, in order from hardest to easiest.">
+    <link href="/css/ill.css" type="text/css" rel="stylesheet">
+    <link rel="shortcut icon" href="/assets/logo.png" type="image/x-icon">
+    <meta name="description" content="The impossible levels of 3Dash, in order from hardest to easiest.">
     <meta name="viewport" content="user-scalable=no">
     <meta charset="UTF-8">
 </head>
 
 <body>
-    <script type='text/javascript' src="js/jquery-3.2.1.min.js"></script>
-    <script type='text/javascript' src="js/sweetalert.min.js"></script>
-    <script type='text/javascript' src="js/list.js"></script>
-    <script type='text/javascript' src="js/userData.js"></script>
+    <script type='text/javascript' src="/js/jquery-3.2.1.min.js"></script>
+    <script type='text/javascript' src="/js/sweetalert.min.js"></script>
+    <script type='text/javascript' src="/js/ill.js"></script>
+    <script type='text/javascript' src="/js/userData.js"></script>
     <cover-all id="hi">
         <header id="dl-header">
-            <div id="sitename"><strong>3Dash Demon List</strong><small><em id="version-node"></em></small></div>
+            <div id="sitename"><strong>3Dash impossible levels list</strong><small><em id="version-node"></em></small></div>
             <div id="sitename1"><img src="/assets/logo.png" alt="" width="60" height="60"></div>
 			<div id="links">
-				<a href="Challenge">    Challenge list    </a>
-				<a href="ILL">    Impossible list</a>
+				<a href="/Challenge">    Challenge list    </a>
+				<a href="/">    Main list</a>
 			</div>
-            <div id="pc-link"><a target="_blank" href="https://discord.gg/U3kwFFrbfe"><em><strong>Unofficial Discord</strong></a></em></div>
+            <div id="pc-link"><a target="_blank" href="https://discord.gg/SdZgBvuZSn"><em><strong>Unofficial Discord</strong></a></em></div>
         </header>
         <div id="list">
         </div>
@@ -50,7 +50,7 @@
                         <hr>
                         <div id="records-title"><strong>Records</strong></div><br>
                         <div id="qualification"><strong id="levelqualify"></strong>% or better required to qualify<br><br>
-                            <center><a target="_blank" href="https://forms.gle/RRz8ikTK1RWFzohN7">> Fill in the form! <</a></center>
+                            <center><a target="_blank" href="https://forms.gle/xtTZaEFQgE7rHKmb8">> Fill in the form! <</a></center>
                         </div>
                         <br>
                     </center>
@@ -81,9 +81,12 @@
                     </li>
                 </div>
                
-                <strong><p>Changelog (v1.0.2):</p></strong>
-					<p>Shamelessly stolen from the <b>Rubyrules 3Dash List</b></a>
-					<p>Revamped Links And point system!</p>
+                <strong><p>Changelog (v1.0.0):</p></strong>
+					<p>Shamelessly stolen from the <b>Sh!tty List</b></a>
+					<br>
+					<p>Rules:</p>
+					<p>Max 25 cps</p>
+					<p>Must be physically possible</p>
                    	</p>
 				</div>
             </div>
@@ -143,7 +146,6 @@
         return roundNumber(((1 - (rank - 1) / 50) ** 3) * 250, 3);
       }
     }
-      // Poinst System
     function roundNumber(num, scale) {
       if (!("" + num).includes("e")) {
         return +(Math.round(num + "e+" + scale) + "e-" + scale);
@@ -257,8 +259,7 @@
             legacy_count++;
         }
     }
-      // this shit complicated
-    $("#version-node").text("(v" + version[0] + "." + version[0] + "." + version[1] + ")");
+    $("#version-node").text("(v" + version[0] + "." + version[1] + "." + version[2] + ")");
     list.sort(function(a, b) {
         var legacy_count = 0;
         for (var i = 0; i < list.length; i++) {
@@ -270,12 +271,12 @@
         var arank = 0;
         var brank = 0;
         if (a.key == null) {
-            arank = 25 + (legacy_count - a.legacyKey);
+            arank = 150 + (legacy_count - a.legacyKey);
         } else {
             arank = (a.key) + 1;
         }
         if (b.key == null) {
-            brank = 25 + (legacy_count - b.legacyKey);
+            brank = 150 + (legacy_count - b.legacyKey);
         } else {
             brank = (b.key) + 1;
         }
@@ -284,9 +285,9 @@
     for (var i = 0; i < list.length; i++) {
         var entry = list[i];
         if (entry.key != null) {
-            $("<div>").addClass((l == -1 ? (i == 0) : (i == l)) ? 'entry selected' : 'entry').html(`#${i+1}: <strong>${entry.name}</strong> by <em class="author">${entry.author}</em>`).attr('value', i).appendTo(list_node)
+            $("<div>").addClass((l == -1 ? (i == 0) : (i == l)) ? 'entry selected' : 'entry').html(`#${i+1}: <strong>${entry.name}</strong> by <em class="author">${entry.author.split('[').join('').split(']').join('')}</em>`).attr('value', i).appendTo(list_node)
         } else {
-            $("<div>").addClass((l == -1 ? (i == 0) : (i == l)) ? 'entry selected' : 'entry').html(`<strong>Legacy</strong>: <strong>${entry.name}</strong> by <em class="author">${entry.author}</em>`).attr('value', i).appendTo(list_node)
+            $("<div>").addClass((l == -1 ? (i == 0) : (i == l)) ? 'entry selected' : 'entry').html(`<strong>Legacy</strong>: <strong>${entry.name}</strong> by <em class="author">${entry.author.split('[').join('').split(']').join('')}</em>`).attr('value', i).appendTo(list_node)
         }
     }
     // handlers
@@ -310,7 +311,7 @@
             }
             var rank = 0;
             if (entry.key == null) {
-                rank = 25 + (legacy_count - entry.legacyKey);
+                rank = 150 + (legacy_count - entry.legacyKey);
             } else {
                 rank = (entry.key) + 1;
             }
@@ -322,7 +323,7 @@
                     hacked = " <span class='p-hacked'>POSSIBLY HACKED</span>";
                 }
             }
-            $("#levelname").html((rank > 25 ? `` : `#` + rank + ` `) + entry.name + hacked);
+            $("#levelname").html((rank > 150 ? `` : `#` + rank + ` `) + entry.name + hacked);
             var author = entry.author;
             var final_author;
             if (author.includes(' more ')) {
@@ -330,7 +331,7 @@
             } else {
                 final_author = author
             }
-            final_author = final_author.replace(' [', ', Verified by ').replace(']', "")
+            final_author = final_author.replace(' [', '').replace(']', "")
             $("#inside-level-author").empty();
             $("#inside-level-author").html(final_author);
 			$("#extratext").empty();
