@@ -21,7 +21,7 @@
             <div id="sitename"><strong>3Dash impossible levels list</strong><small><em id="version-node"></em></small></div>
             <div id="sitename1"><img src="/assets/logo.png" alt="" width="60" height="60"></div>
 			<div id="links">
-				<a href="challenge.html">    Challenge list    </a>
+				<a href="../Challenge">    Challenge list    </a>
 				<a href="/">    Main list</a>
 			</div>
             <div id="pc-link"><a target="_blank" href="https://discord.gg/SdZgBvuZSn"><em><strong>Unofficial Discord</strong></a></em></div>
@@ -69,11 +69,16 @@
                     <div>
                   List Moderators:
                     <li>
-                    	<a>Redacted</a>
+                    	<a>RedactedsLair</a>
                     </li>
 					<li>
 						<a>Ayueshi</a>
           </li>
+                      <li>
+						<a>Bitmaybe</a>
+          </li>
+     <li>                 						<a>Need Support? Contact Me at: 3dashdemonlist@gmail.com (i got no budget for some kind of buisness email)</a>
+                    </li>
                 </div>
                
                 <strong><p>Changelog (v1.0.0):</p></strong>
@@ -135,60 +140,58 @@
     </script>
     <script name="userpoint" type="text/javascript">
     function getPoint(rank) {
-		if(list[rank-1].points!=null){
-			return list[rank-1].points;
-		}
-        if (rank > 150) {
-            return roundNumber(15, 3);
-        } else {
-            return roundNumber((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
-        }
+      if (rank >= 48) {
+        return roundNumber(0.1, 3);
+      } else {
+        return roundNumber(((1 - (rank - 1) / 50) ** 3) * 250, 3);
+      }
     }
     function roundNumber(num, scale) {
-        if (!("" + num).includes("e")) {
-            return +(Math.round(num + "e+" + scale) + "e-" + scale);
-        } else {
-            var arr = ("" + num).split("e");
-            var sig = ""
-            if (+arr[1] + scale > 0) {
-                sig = "+";
-            }
-            return +(Math.round(+arr[0] + "e" + sig + (+arr[1] + scale)) + "e-" + scale);
+      if (!("" + num).includes("e")) {
+        return +(Math.round(num + "e+" + scale) + "e-" + scale);
+      } else {
+        var arr = ("" + num).split("e");
+        var sig = ""
+        if (+arr[1] + scale > 0) {
+          sig = "+";
         }
+        return +(Math.round(+arr[0] + "e" + sig + (+arr[1] + scale)) + "e-" + scale);
+      }
     }
     function getUserPoint(rank, percent, cutline, hz) {
-        var hzpoint = 0.0;
-        if (hz == null) {
-            hzpoint = 0;
-        } else if (hz == "Mobile") {
-            hzpoint = 0;
+      var hzpoint = 0.0;
+      if (hz == null) {
+        hzpoint = 0;
+      } else if (hz == "Mobile") {
+        hzpoint = 0;
+      } else {
+        var hzInt = parseInt(hz.replace("Bypass", "").replace("hz", "").replace("bypass", "").replace("Hz", "").replace("HZ", ""));
+        if (hzInt >= 110) {
+          hzpoint = 0;
+        } else if (hzInt >= 70) {
+          hzpoint = 0;
         } else {
-            var hzInt = parseInt(hz.replace("Bypass", "").replace("hz", "").replace("bypass", "").replace("Hz", "").replace("HZ", ""));
-            if (hzInt >= 110) {
-                hzpoint = 0;
-            } else if (hzInt >= 70) {
-                hzpoint = 0;
-            } else {
-                hzpoint = 0;
-            }
+          hzpoint = 0;
         }
-        var point_rank = 0;
-        if (rank > 50) {
-            point_rank = 50;
+      }
+      var point_rank = 0;
+      if (rank > 50) {
+        point_rank = 50;
+      } else {
+        point_rank = rank;
+      }
+      hzpoint = 1 + (hzpoint * ((50 - point_rank) / 50));
+      if (rank > 50) {
+        return 0.1;
+      } else {
+        // var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
+        score = getPoint(rank)
+        if (percent != 100) {
+          return roundNumber(score / (100 / percent), 3);
         } else {
-            point_rank = rank;
+          return score;
         }
-        hzpoint = 1 + (hzpoint * ((50-point_rank)/50));
-        if (rank > 150) {
-            return 0;
-        } else {
-            var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
-            if (percent != 100) {
-                return roundNumber(score - (score / 3), 3);
-            } else {
-                return score;
-            }
-        }
+      }
     }
     function getAuthors(rank) {
         Swal.fire({

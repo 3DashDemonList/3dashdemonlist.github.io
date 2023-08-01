@@ -22,7 +22,7 @@
       <div id="sitename1"><img src="/assets/logo.png" alt="" width="60" height="60"></div>
       <div id="links">
         <a href="/"> Main list </a>
-        <a href="ill.html"> Impossible list</a>
+        <a href="/ILL"> Impossible list</a>
       </div>
       <div id="pc-link"><a target="_blank" href="https://discord.gg/V3CjsN6bkQ"><em><strong>Unofficial
               Discord</strong></a></em></div>
@@ -64,21 +64,24 @@
     </div>
     <div id="additional-information">
       <div id="inner-right-info">
-        <div><strong>Do you have a record to upload? Do you want to submit your own level? <u><a target="_blank"
-                href="https://forms.gle/xtTZaEFQgE7rHKmb8">Fill in the form!!</a></u></strong></div>
-        <br>
-        <div>
-          <br>
-          <div>
-            List Moderators:
-            <li>
-              <a>RedactedsLair</a>
-            </li>
-            <li>
-              <a>Ayueshi#8504</a>
-            </li>
-           
-          </div>
+        <div><strong>Do you have a record to upload? Do you want to submit your own level? <u><a target="_blank" href="https://forms.gle/xtTZaEFQgE7rHKmb8">Fill in the form!!</a></u></strong></div>
+                <br>
+                <div>
+                  <br>
+                    <div>
+                  List Moderators:
+                    <li>
+                    	<a>RedactedsLair</a>
+                    </li>
+					<li>
+						<a>Ayueshi</a>
+          </li>
+                      <li>
+						<a>Bitmaybe</a>
+          </li>
+     <li>                 						<a>Need Support? Contact Me at: 3dashdemonlist@gmail.com (i got no budget for some kind of buisness email)</a>
+                    </li>
+                </div>
 
           <strong>
             <p>Changelog (v1.0.0):</p>
@@ -141,13 +144,10 @@
   </script>
   <script name="userpoint" type="text/javascript">
     function getPoint(rank) {
-      if (list[rank - 1].points != null) {
-        return list[rank - 1].points;
-      }
-      if (rank > 25) {
-        return roundNumber(15, 3);
+      if (rank >= 48) {
+        return roundNumber(0.1, 3);
       } else {
-        return roundNumber((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
+        return roundNumber(((1 - (rank - 1) / 50) ** 3) * 250, 3);
       }
     }
     function roundNumber(num, scale) {
@@ -186,12 +186,12 @@
       }
       hzpoint = 1 + (hzpoint * ((50 - point_rank) / 50));
       if (rank > 50) {
-        return 0;
+        return 0.1;
       } else {
         // var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
         score = getPoint(rank)
         if (percent != 100) {
-          return roundNumber(score - (score / 3), 3);
+          return roundNumber(score / (100 / percent), 3);
         } else {
           return score;
         }
@@ -263,7 +263,7 @@
         legacy_count++;
       }
     }
-    $("#version-node").text("(v" + version[0] + "." + version[1] + "." + version[2] + ")");
+    $("#version-node").text("(v" + version[2] + "." + version[1] + "." + version[] + ")");
     list.sort(function (a, b) {
       var legacy_count = 0;
       for (var i = 0; i < list.length; i++) {

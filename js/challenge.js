@@ -1,14 +1,3 @@
-// {
-//      "vids": [
-//    ],
-//   "name": "Placeholder",
-//   "author": "to be added",
-//   "id": "to be added",
-//     "percentToQualify": 100,
-//   "extra": "Placeholder until added",
-//   "verificationVid": "",
-//   "key": 57
-// },
 
 const d = {
 	"list": [

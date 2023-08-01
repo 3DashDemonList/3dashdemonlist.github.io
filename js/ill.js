@@ -1,3 +1,4 @@
+// i hate how replit decided that these arent modified anymore so i have to type here now
 const d = {
 	"list": [
     {
