@@ -1,5 +1,25 @@
+// i hate how replit decided that these arent modified anymore so i have to type here now
 const d = {
 	"list": [
+    {
+			"vids": [
+        {
+					"user": "Monstrosity",
+					"link": "https://www.youtube.com/watch?v=6xGefDt6wng",
+					"percent": 4.45,
+          "hz": "60Hz"
+				}
+			],
+			"name": "Exodus",
+      
+                    "author": "Monstrosity []",
+                    "id": 6591,
+					          "diff": "Demon",
+                    "percentToQualify": 0,
+                    "verificationVid": "https://www.youtube.com/watch?v=M_OjOAWyTXc",
+                    "key": 0,
+                    "extra": "Max percentage is: 404"
+			},	
     {
 			"vids": [
         {
@@ -13,6 +33,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=y5Zk6XWLzDs",
 					"percent": 2.24,
           "hz": "60Hz"
+				},
+        {
+					"user": "Monstrosity",
+					"link": "https://www.youtube.com/watch?v=6r9tAIKydSE",
+					"percent": 2.24,
+          "hz": "60Hz"
 				}
 			],
 			"name": "helloworld",
@@ -22,7 +48,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=SKdeugh8Npo",
-                    "key": 0,
+                    "key": 1,
                     "extra": "Max percentage is: 356"
 			},	
     {
@@ -32,14 +58,20 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1j6Oqk4Tkvg",
 					"percent": 2.96,
           "hz": "60Hz"
-				}
+				},
+        {
+					"user": "Monstrosity",
+					"link": "https://youtu.be/6r9tAIKydSE",
+					"percent": 2.5,
+          "hz": "60Hz"
+        }
       ],
       "name": "ERA GOL DE YEPES",
       "author": "Mr.Pandequeso []",
       "id": 6246,
       "percentToQualify": 0,
       "verificationVid": "https://youtu.be/wrzwdim4P2g",
-      "key": 1,
+      "key": 2,
       "extra": "Max percentage is: 439"
     },
       {
@@ -49,17 +81,48 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Gv4VmzNVY3s",
 					"percent": 1.26,
           "hz": "60Hz"
-				}
+				},
+        {
+					"user": "Monstrosity",
+					"link": "https://youtu.be/6r9tAIKydSE",
+					"percent": 1.26,
+          "hz": "60Hz"
+        }
 			],
 			"name": "Violence",
       
                     "author": "Monstrosity []",
-                    "id": 5637,
+                    "id": 6458,
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=0tEZGabPWro",
-                    "key": 2,
+                    "key": 3,
                     "extra": "Max percentage is: 1190"
+			},
+    {
+			"vids": [
+        {
+					"user": "Monstrosity",
+					"link": "https://www.youtube.com/watch?v=8DG0V8SDmxM",
+					"percent": 3.39,
+          "hz": "60Hz"
+        },
+        {
+					"user": "Ayueshi",
+					"link": "https://youtu.be/DMkJ3UO8r_I",
+					"percent": 3.56,
+          "hz": "60Hz"
+				},
+			],
+			"name": "Genesis",
+      
+                    "author": "Monstrosity []",
+                    "id": 6457,
+					          "diff": "Demon",
+                    "percentToQualify": 0,
+                    "verificationVid": "https://www.youtube.com/watch?v=lv0Uan9YfGA",
+                    "key": 4,
+                    "extra": "Max percentage is: 589"
 			},
       {
       
@@ -94,6 +157,12 @@ const d = {
 					"percent": 16.66,
           "hz": "144Hz"
         },
+        {
+					"user": "Monstrosity",
+					"link": "https://youtu.be/6r9tAIKydSE?t=46",
+					"percent": 7.33,
+          "hz": "60Hz"
+        }
       ],
       "name": "Wrath",
       "author": "Bit []",
@@ -101,7 +170,7 @@ const d = {
       "diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=0fZ3lk2hYR4",
-      "key": 3,
+      "key": 5,
       "extra": "Max percentage is: 600"
       },  {
 			"vids": [
@@ -128,7 +197,13 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=GT-0FVzC8RA",
 					"percent": 25.06,
           "hz": "144Hz"
-				}
+				},
+        {
+					"user": "Monstrosity",
+					"link": "https://youtu.be/6r9tAIKydSE?t=37",
+					"percent": 5.56,
+          "hz": "60Hz"
+        }
       ],
 			"name": "maybe possible?",
       "author": "boro []",
@@ -136,8 +211,22 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 2,
       "verificationVid": "https://youtu.be/hMDt_W_QSx4",
-      "key": 4,
+      "key": 6,
       "extra": "Max percentage is: 395"
+			},
+    {
+			"vids": [
+        
+			],
+			"name": "Irate",
+      
+                    "author": "Monstrosity []",
+                    "id": 6590,
+					          "diff": "Demon",
+                    "percentToQualify": 0,
+                    "verificationVid": "https://www.youtube.com/watch?v=lQ9vqC__4uo",
+                    "key": 7,
+                    "extra": "Max percentage is: 600"
 			},
     {
 			"vids": [
@@ -152,7 +241,13 @@ const d = {
 					"link": "https://youtu.be/1j6Oqk4Tkvg?t=7",
 					"percent": 20.56,
           "hz": "60Hz"
-				}
+				},
+        {
+					"user": "Monstrosity",
+					"link": "https://youtu.be/6r9tAIKydSE?t=34",
+					"percent": 16.8,
+          "hz": "60Hz"
+        }
       ],
 			"name": "I Cry",
       "author": "boro []",
@@ -160,7 +255,7 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=8tQCPhFj1ac",
-      "key": 5,
+      "key": 8,
       "extra": "Max percentage is: 107"
 			},
       {
@@ -171,6 +266,12 @@ const d = {
 					"percent": 4.33,
           "hz": "60Hz"
 				},
+        {
+					"user": "Monstrosity",
+					"link": "https://youtu.be/6r9tAIKydSE?t=16",
+					"percent": 5.05,
+          "hz": "60Hz"
+        }
       ],
 			"name": "Slaughterhouse 1987 real",
       
@@ -179,7 +280,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=1CYP_nnGZl8",
-                    "key": 6,
+                    "key": 9,
                     "extra": "Max percentage is: 554"
 			},
     {
@@ -192,8 +293,8 @@ const d = {
         },
         {
 					"user": "ChaseLux",
-					"link": "https://www.youtube.com/watch?v=Qbda0vY0Xp4",
-					"percent": 18.61,
+					"link": "https://www.youtube.com/watch?v=NYwVJrx0hXg",
+					"percent": 29.25,
           "hz": "144Hz"
         },
         {
@@ -202,6 +303,12 @@ const d = {
 					"percent": 25.53,
           "hz": "60Hz"
         },
+        {
+					"user": "Monstrosity",
+					"link": "https://youtu.be/6r9tAIKydSE?t=11",
+					"percent": 10.1,
+          "hz": "60Hz"
+        }
       ],
 			"name": "3SH in Hell",
       "author": "boro []",
@@ -209,7 +316,7 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=8BUwQjYmQHk",
-      "key": 7,
+      "key": 10,
       "extra": "Max percentage is: 188"
 			},
     {
@@ -225,7 +332,19 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=WGUV1ZyA3cg",
 					"percent": 8.24,
           "hz": "60Hz"
-        }
+        },
+        {
+					"user": "Monstrosity",
+					"link": "https://www.youtube.com/watch?v=6r9tAIKydSE",
+					"percent": 8.24,
+          "hz": "60Hz"
+        },
+        {
+					"user": "Ayueshi",
+					"link": "https://youtu.be/aVAG24BCj98",
+					"percent": 8.24,
+          "hz": "60Hz"
+				}
       ],
 			"name": "Paraballa",
       "author": "boro []",
@@ -233,9 +352,47 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=VnyTN98nOS8",
-      "key": 8,
+      "key": 11,
       "extra": "Max percentage is: 194"
 			},
+      {
+			"vids": [
+        {
+					"user": "Ayueshi",
+					"link": "https://youtu.be/R5zaxGMNVy8",
+					"percent": 14.48,
+          "hz": "60Hz"
+				},
+			],
+			"name": "Deadly Soul",
+      
+                    "author": "Monstrosity []",
+                    "id": 6594,
+					          "diff": "Demon",
+                    "percentToQualify": 0,
+                    "verificationVid": "https://www.youtube.com/watch?v=w9_aKzHxAqY",
+                    "key": 12,
+                    "extra": "Max percentage is: 642"
+			},
+      {
+			"vids": [
+        {
+					"user": "Ayueshi",
+					"link": "https://youtu.be/erOH0vik6qs",
+					"percent": 18.51,
+          "hz": "60Hz"
+				},
+			],
+			"name": "kanye west challenge",
+      
+                    "author": "Monstrosity []",
+                    "id": 6589,
+					          "diff": "Demon",
+                    "percentToQualify": 0,
+                    "verificationVid": "https://www.youtube.com/watch?v=N0ruQFDkydQ",
+                    "key": 13,
+                    "extra": "Max percentage is: 108"
+			}
 		/*=================================================================================*/
 	],
 	"version": [

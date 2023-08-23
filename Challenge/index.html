@@ -4,18 +4,18 @@
 <head>
   <title>3Dash challenge list</title>
   <link href="//fonts.googleapis.com/css?family=Mukta+Mahee:200,400,700" rel="stylesheet">
-  <link href="css/challenge.css" type="text/css" rel="stylesheet">
-  <link rel="shortcut icon" href="assets/logo.png" type="image/x-icon">
+  <link href="/css/challenge.css" type="text/css" rel="stylesheet">
+  <link rel="shortcut icon" href="/assets/logo.png" type="image/x-icon">
   <meta name="description" content="The hardest challenges in 3Dash, in order from hardest to easiest.">
   <meta name="viewport" content="user-scalable=no">
   <meta charset="UTF-8">
 </head>
 
 <body>
-  <script type='text/javascript' src="js/jquery-3.2.1.min.js"></script>
-  <script type='text/javascript' src="js/sweetalert.min.js"></script>
-  <script type='text/javascript' src="js/challenge.js"></script>
-  <script type='text/javascript' src="js/userData.js"></script>
+  <script type='text/javascript' src="/js/jquery-3.2.1.min.js"></script>
+  <script type='text/javascript' src="/js/sweetalert.min.js"></script>
+  <script type='text/javascript' src="/js/challenge.js"></script>
+  <script type='text/javascript' src="/js/userData.js"></script>
   <cover-all id="hi">
     <header id="dl-header">
       <div id="sitename"><strong>3Dash challenge list</strong><small><em id="version-node"></em></small></div>
@@ -64,30 +64,27 @@
     </div>
     <div id="additional-information">
       <div id="inner-right-info">
-        <div><strong>Do you have a record to upload? Do you want to submit your own level? <u><a target="_blank" href="https://forms.gle/xtTZaEFQgE7rHKmb8">Fill in the form!!</a></u></strong></div>
-                <br>
-                <div>
-                  <br>
-                    <div>
-                  List Moderators:
-                    <li>
-                    	<a>RedactedsLair</a>
-                    </li>
-					<li>
-						<a>Ayueshi</a>
-          </li>
-                      <li>
-						<a>Bitmaybe</a>
-          </li>
-     <li>                 						<a>Need Support? Contact Me at: 3dashdemonlist@gmail.com (i got no budget for some kind of buisness email)</a>
-                    </li>
-                </div>
+        <div><strong>Do you have a record to upload? Do you want to submit your own level? <u><a target="_blank"
+                href="https://forms.gle/xtTZaEFQgE7rHKmb8">Fill in the form!!</a></u></strong></div>
+        <br>
+        <div>
+          <br>
+          <div>
+            List Moderators:
+            <li>
+              <a>RedactedsLair</a>
+            </li>
+            <li>
+              <a>Ayueshi#8504</a>
+            </li>
+           
+          </div>
 
           <strong>
             <p>Changelog (v1.0.0):</p>
           </strong>
           <p>The place is still ongoing updates. shamelessly taken from <b>Rubyrules</b></a>
-          <p>Created!</p>
+          <p>Revamped Links And point system!</p>
           </p>
         </div>
       </div>
@@ -99,25 +96,25 @@
             text-decoration: none;
           }
 
-          /* 아직 방문하지 않은경우 */
+          /* something */
           A:visited {
             color: black !important;
             text-decoration: none;
           }
 
-          /* 한번 이상 방문한 링크 처리 */
+          /* Also something */
           A:active {
             color: black !important;
             text-decoration: none;
           }
 
-          /* 마우스로 클릭하는 순간 */
+          /* even more something */
           A:hover {
             color: rgba(0, 0, 0, 0.5) !important;
             text-decoration: none;
           }
 
-          /* 마우스 링크 위 올려 놓았을때 */
+          /* idk */
         </style>
         <center><strong>User Score List</strong></center>
         <div id="user-rank"></div>
@@ -150,6 +147,7 @@
         return roundNumber(((1 - (rank - 1) / 50) ** 3) * 250, 3);
       }
     }
+    // Point System.
     function roundNumber(num, scale) {
       if (!("" + num).includes("e")) {
         return +(Math.round(num + "e+" + scale) + "e-" + scale);
@@ -263,7 +261,7 @@
         legacy_count++;
       }
     }
-    $("#version-node").text("(v" + version[2] + "." + version[1] + "." + version[] + ")");
+    $("#version-node").text("(v" + version[0] + "." + version[1] + "." + version[2] + ")");
     list.sort(function (a, b) {
       var legacy_count = 0;
       for (var i = 0; i < list.length; i++) {
