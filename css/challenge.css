@@ -188,3 +188,19 @@
   Swal {
     color: black;
   }
+.SpooferShit{
+    background: red;
+    color: white;
+    font-weight: strong;
+    font-size: 0.4em;
+    padding: 0.4em;
+    border-radius: 1em;
+  }
+  .Spooferonly{
+    background: rgb(255, 127, 127);
+    color: white;
+    font-weight: strong;
+    font-size: 0.4em;
+    padding: 0.4em;
+    border-radius: 1em;
+  }

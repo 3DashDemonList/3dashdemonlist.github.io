@@ -29,34 +29,50 @@ const d = {
     }, 
     {
       "vids": [
-        {
-          "user": "Valts",
-          "link": "https://youtu.be/3GglyWTxcX4",
-          "percent": 100
-        },
+
+      ],
+      "name": "Heaven Flowers",
+      "author": "PR9NI4EK1488",
+      "id": "6580",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=I0frD27tFbI",
+      "key": 2
+    },
+    {
+      "vids": [
         {
           "user": "sydno",
           "link": "https://www.youtube.com/watch?v=vsNMnazCNp8",
           "percent": 100
-        }
+        },
+        {
+					"user": "PR9NI4EK1488",
+					"link": "https://www.youtube.com/watch?v=VCky4Gjnufg",
+					"percent": 100,
+				},
       ],
       "name": "Ashley 3D Trials",
-      "author": "Player Name",
+      "author": "fcsAlex7 [Valts]",
       "id": "5904",
       "extra": "LDM ID: 5910",
       "percentToQualify": 100,
-      "verificationVid": "https://www.youtube.com/watch?v=1z_iB5G0Cro",
-      "key": 2
-    },{
+      "verificationVid": "https://youtu.be/3GglyWTxcX4",
+      "key": 3
+    },
+    {
       "vids": [
-
+        {
+          "user": "Domesz",
+          "link": "https://www.youtube.com/watch?v=o4s-6k42LbM",
+          "percent": 100
+        },
       ],
       "name": "SP00FER",
       "author": "KaPiii [sydno]",
       "id": "1282",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/rmh4gDw5n50",
-      "key": 3
+      "key": 4
     }, {
       "vids": [
 
@@ -66,7 +82,7 @@ const d = {
       "id": "1281",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/n3MRA4Lic40",
-      "key": 4
+      "key": 5
     }, 
     {
       "vids": [
@@ -74,19 +90,24 @@ const d = {
           "user": "Valts",
           "link": "https://www.youtube.com/watch?v=5o80WIXxwcQ",
           "percent": 100
-        },
-        {
-          "user": "Player Name",
-          "link": "https://youtu.be/mtWe8ZAytD4",
-          "percent": 100
-        },
+        }
       ],
       "name": "The Road to Dabeiba",
       "author": "Mr.Pandequeso",
       "id": "3480",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/yuXDAaySvi4",
-      "key": 5
+      "key": 6
+    },
+    {
+      "vids": [
+      ],
+      "name": "Arcturus",
+      "author": "Domesz",
+      "id": "6851",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=JbjijXWMZo4",
+      "key": 7
     },{
       "vids": [
 
@@ -96,18 +117,17 @@ const d = {
       "id": "3469",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/ZJxiEhLJGnA",
-      "key": 6
+      "key": 8
     },
     {
       "vids": [
-        
       ],
-      "name": "Moon Raiders V2",
-      "author": "Player Name",
-      "id": "6146",
+      "name": "SUPERHATEMEWORLD",
+      "author": "pokics [Sombreras]",
+      "id": "34",
       "percentToQualify": 100,
-      "verificationVid": "https://youtu.be/boePRctZgAQ",
-      "key": 7
+      "verificationVid": "https://youtu.be/_ONyjNilEYw",
+      "key": 9
     },
     {
       "vids": [
@@ -117,7 +137,18 @@ const d = {
       "id": "3283",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Ft5LA-VAPOo",
-      "key": 8
+      "key": 10
+    },
+    {
+      "vids": [
+
+      ],
+      "name": "Minus World Thing",
+      "author": "Domesz",
+      "id": "6903",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=ZukmOxm4sCE",
+      "key": 11
     },
     {
       "vids": [
@@ -127,7 +158,7 @@ const d = {
           "percent": 100
         },
         {
-					"user": "PR9NI4EK",
+					"user": "PR9NI4EK1488",
 					"link": "https://www.youtube.com/watch?v=D89vzlDXQjo",
 					"percent": 100,
 				},
@@ -151,41 +182,32 @@ const d = {
           "link": "https://www.youtube.com/watch?v=PSP_3vXZ-w4",
           "percent": 100
         },
-        {
-          "user": "Zippiks",
-          "link": "https://www.youtube.com/watch?v=K04wUybT_iw",
+         {
+          "user": "Domesz",
+          "link": "https://www.youtube.com/watch?v=yO9RJPs1A58",
           "percent": 100
         },
       ],
       "name": "The Rock House",
-      "author": "Zippiks [Player Name]",
+      "author": "Zippiks",
       "id": "4725",
       "percentToQualify": 100,
-      "verificationVid": "https://youtu.be/aj9xWWzt0CA",
-      "key": 9
+      "verificationVid": "https://www.youtube.com/watch?v=K04wUybT_iw",
+      "key": 12
     },
     {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=HZQhSrKv1Qw",
-          "percent": 100
-        }
+        
       ],
       "name": "AfterDeath",
       "author": "Axzar [sydno]",
       "id": "5126",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/H1SQ0SRBP0s",
-      "key": 10
+      "key": 13
     },
     {
       "vids": [
-        {
-          "user": "Valts",
-          "link": "https://www.youtube.com/watch?v=CV43GRwz9Xo",
-          "percent": 100
-        },
         {
           "user": "Mogaboss",
           "link": "https://www.youtube.com/watch?v=OWTX4vFAiRc",
@@ -193,19 +215,14 @@ const d = {
         }
       ],
       "name": "Shadow Siege v2",
-      "author": "Player Name",
+      "author": "fcsAlex7 [Valts]",
       "id": "4688",
       "percentToQualify": 100,
-      "verificationVid": "https://www.youtube.com/watch?v=wZXQI8DA8GU",
-      "key": 11
+      "verificationVid": "https://www.youtube.com/watch?v=CV43GRwz9Xo",
+      "key": 14
     },
     {
       "vids": [
-         {
-          "user": "Player Name",
-          "link": "https://youtu.be/W0iENJtZSIY",
-          "percent": 100
-        },
         {
           "user": "Valts",
           "link": "https://youtu.be/35xz03n_zHo",
@@ -221,14 +238,30 @@ const d = {
           "link": "https://www.youtube.com/watch?v=8Js_CEuWo84",
           "percent": 100
         },
+        {
+          "user": "JujuPX",
+          "link": "https://youtu.be/ZzB6JrWlMb0",
+          "percent": 100
+        },
       ],
       "name": "Shadow Siege X",
       "author": "Pain and Suffering",
       "id": "5818",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/ptPDz9pWDsw",
-      "key": 12
+      "key": 15
     },
+    {
+		"vids": [
+      
+		],
+		"name": "Grains of Sand",
+		"author": "Domesz",
+		"id": "6964",
+		"percentToQualify": 100,
+		"verificationVid": "https://www.youtube.com/watch?v=hoCkoiB94G4",
+		"key": 16
+	  }, 
     {
       "vids": [
        
@@ -242,20 +275,19 @@ const d = {
           "link": "https://youtu.be/W-qKtHuhKLQ",
           "percent": 100
         },
-         {
-          "user": "Player Name",
-          "link": "https://youtu.be/OyURGpOx7Do?t=447",
+          {
+          "user": "zemljotres",
+          "link": "https://youtu.be/TyjVISXh-SA",
           "percent": 100
-        }
+        },
       ],
       "name": "Shadow Siege",
       "author": "DelugeDrop",
       "id": "Main Level",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/OyURGpOx7Do?t=447",
-      "key": 13
+      "key": 17
     },
-    
     {
       "vids": [
         {
@@ -264,17 +296,17 @@ const d = {
           "percent": 100
         },
         {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=EicpAjBK5uw",
+          "user": "JujuPX",
+          "link": "https://youtu.be/zM5lfgbqJ_k",
           "percent": 100
-        }
+        },
       ],
       "name": "S44",
       "author": "AliMicro [sydno]",
       "id": "5317",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=ajN3JIz0g_Y",
-      "key": 14
+      "key": 18
     },
     {
       "vids": [
@@ -289,17 +321,17 @@ const d = {
           "percent": 100
         },
         {
-          "user": "Player Name",
-          "link": "https://youtu.be/5YZl7FfSPU4?t=182",
+          "user": "zemljotres",
+          "link": "https://youtu.be/AIkXO7R2liw",
           "percent": 100
-        }
+        },
       ],
       "name": "Moon Raiders",
       "author": "DelugeDrop",
       "id": "Main Level",
       "percentToQualify": 100,
-      "verificationVid": "https://youtu.be/5YZl7FfSPU4?t=182",
-      "key": 15
+      "verificationVid": "",
+      "key": 19
     },
     {
       "vids": [
@@ -314,11 +346,6 @@ const d = {
           "percent": 100
         },
         {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=163xZDl53sE",
-          "percent": 100
-        },
-        {
           "user": "Mogaboss",
           "link": "https://www.youtube.com/watch?v=G7icHiJ6eL0",
           "percent": 100
@@ -330,26 +357,10 @@ const d = {
       "id": "5127",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/z6axDCYUdzc",
-      "key": 16
+      "key": 20
     }, 
     {
       "vids": [
-
-      ],
-      "name": "Shadow Siege v2 Legacy",
-      "author": "Player Name",
-      "id": "6114",
-      "percentToQualify": 100,
-      "verificationVid": "https://youtu.be/aZ4rNXGDdr4",
-      "key": 17
-    },
-    {
-      "vids": [
-         {
-          "user": "Player Name",
-          "link": "https://youtu.be/733ZloR5r4I",
-          "percent": 100
-        },
          {
           "user": "gecko",
           "link": "https://youtu.be/zB0HLwEWphs",
@@ -369,25 +380,25 @@ const d = {
           "user": "Exvie",
           "link": "https://youtu.be/ywuIBRkn8TE",
           "percent": 100
-        }
+        },
+        {
+          "user": "zemljotres",
+          "link": "https://youtu.be/2tda1o8rBqQ",
+          "percent": 100
+        },
       ],
       "name": "MechaTron",
       "author": "Nameless [sydno]",
       "id": "3 (WoW)",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/nNnkL9CPBds",
-      "key": 18
+      "key": 21
     },  
     {
       "vids": [
         {
           "user": "sydno",
           "link": "https://youtu.be/DoL2xcD9WDk",
-          "percent": 100
-        },
-        {
-          "user": "Player Name",
-          "link": "https://youtu.be/Ea7iUobgmuM",
           "percent": 100
         },
         {
@@ -401,14 +412,9 @@ const d = {
       "id": "5128",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/jMkUtiWwDQ8",
-      "key": 19
+      "key": 22
     }, {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=vrOXnx6sVrw",
-          "percent": 100
-        },
         {
           "user": "Valts",
           "link": "https://youtu.be/6-4O6v0g3Hw",
@@ -420,43 +426,38 @@ const d = {
       "id": "1348",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/PFZY1_Zuumw",
-      "key": 20
+      "key": 23
     }, {
       "vids": [
         {
-          "user": "PR9NI4EK",
+          "user": "PR9NI4EK1488",
           "link": "https://youtu.be/WcS8VAKSzUA",
-          "percent": 100
-        },
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=dJKXrg7fHSE",
           "percent": 100
         },
         {
           "user": "Valts",
           "link": "https://youtu.be/f2pEUJAhFAU",
           "percent": 100
-        }
+        },
+         {
+          "user": "Domesz",
+          "link": "https://www.youtube.com/watch?v=c_0gD65Iz_Y",
+          "percent": 100
+        },
       ],
       "name": "Extremeness",
       "author": "boro [Mr.Pandequeso]",
       "id": "3755",
       "percentToQualify": 80,
       "verificationVid": "https://www.youtube.com/watch?v=4tBLjTmnm2A",
-      "key": 21
+      "key": 24
     }, {
       "vids": [
         {
-					"user": "PR9NI4EK",
+					"user": "PR9NI4EK1488",
 					"link": "https://youtu.be/Jq1KXRmTR50?t=86",
 					"percent": 100,
 				},
-        {
-          "user": "Player Name",
-          "link": "https://youtu.be/LhLS7EZdp7g",
-          "percent": 100
-        },
         {
           "user": "Valts",
           "link": "https://youtu.be/xf9dfU3Y3nE",
@@ -477,63 +478,82 @@ const d = {
           "link": "https://www.youtube.com/watch?v=kkLUyKgczVw",
           "percent": 100
         },
+        {
+          "user": "Talcility",
+          "link": "https://www.youtube.com/watch?v=Jdol63DOx28",
+          "percent": 100
+        },
       ],
       "name": "Silent Clubstep",
       "author": "RBLXChaos",
       "id": "3510",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/B5MNwvEMdag",
-      "key": 22
-    }, {
+      "key": 25
+    },
+    {
       "vids": [
         {
-					"user": "PR9NI4EK",
+					"user": "PR9NI4EK1488",
 					"link": "https://www.youtube.com/watch?v=egYym2JJeok",
 					"percent": 100,
 				},
         {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=ZP5lZaJDf8c",
-          "percent": 100
-        },
-        {
           "user": "Valts",
           "link": "https://youtu.be/3mqwKYcysCg",
           "percent": 100
-        }
+        },
+        {
+			"user": "Exvie",
+			"link": "https://www.youtube.com/watch?v=tssAFYfZPfo",
+			"percent": 100
+		  },
       ],
       "name": "Darkness",
       "author": "Mcat",
       "id": "5129",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=IP3DpKoU8QU",
-      "key": 23
-    }, {
-      "vids": [
+      "key": 26
+    }, 
+    {
+			"vids": [
+        
         {
-          "user": "Player Name",
-          "link": "https://youtu.be/dgC-v0qc2WQ",
-          "percent": 100
-        },
+					"user": "PR9NI4EK1488",
+					"link": "https://www.youtube.com/watch?v=rF70u7C73d4",
+					"percent": 100,
+				}
+			],
+			"name": "Deadly Soul",
+      
+                    "author": "Monstrosity [Exvie]",
+                    "id": 6594,
+					          "diff": "Demon",
+                    "percentToQualify": 100,
+                    "verificationVid": "https://youtu.be/wqyfQywm_B0",
+                    "key": 27
+			},{
+      "vids": [
         {
           "user": "Valts",
           "link": "https://youtu.be/Ab9Oon8sWdI",
           "percent": 100
-        }
+        },
+        {
+          "user": "Talcility",
+          "link": "https://www.youtube.com/watch?v=jewLwSfnNy8",
+          "percent": 100
+        },
       ],
       "name": "TheLevelBelowSucks",
       "author": "KarolFTP",
       "id": "3607",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4QVNtcaEeT0",
-      "key": 24
+      "key": 28
     }, {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://youtu.be/LhLS7EZdp7g",
-          "percent": 100
-        },
         {
           "user": "Valts",
           "link": "https://youtu.be/dvr4hRN6pWg",
@@ -545,14 +565,24 @@ const d = {
       "id": "5130",
       "percentToQualify": 75,
       "verificationVid": "https://youtu.be/sE8yXUJ_JNc",
-      "key": 25
-    }, {
+      "key": 29
+    }, 
+    {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=EoEXCKLV_Po",
+         {
+          "user": "zemljotres",
+          "link": "https://youtu.be/Qa06lGMb_0g",
           "percent": 100
         },
+      ],
+      "name": "Game Breaker Infinity",
+      "author": "Monstrosity [Exvie]",
+      "id": "6622",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=g9rRYmYzor8",
+      "key": 30
+    }, {
+      "vids": [
         {
           "user": "Valts",
           "link": "https://youtu.be/anTRwXjYaMQ",
@@ -564,24 +594,29 @@ const d = {
       "id": "5132",
       "percentToQualify": 90,
       "verificationVid": "https://youtu.be/P8OJlJXaakg",
-      "key": 26
+      "key": 31
     }, {
       "vids": [
         {
-					"user": "PR9NI4EK",
+					"user": "PR9NI4EK1488",
 					"link": "https://youtu.be/Jq1KXRmTR50?t=33",
 					"percent": 100,
 				},
         {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=o_78z3Bgj3Q",
-          "percent": 100
-        },
-        {
           "user": "Valts",
           "link": "https://youtu.be/6AS7L6h066A",
           "percent": 100
-        }
+        },
+        {
+          "user": "JujuPX",
+          "link": "https://www.youtube.com/watch?v=_F8hffl2xN8",
+          "percent": 100
+        },
+          {
+          "user": "zemljotres",
+          "link": "https://youtu.be/x6Eu553VmbE",
+          "percent": 100
+        },
       ],
       "name": "PURGATORY",
       "author": "Karol",
@@ -589,45 +624,58 @@ const d = {
       "percentToQualify": 100,
       "verificationVid": "",
       "extra": "https://drive.google.com/drive/folders/1rDFawlkILy2JJwXx-9j5wWWRmo-emZK-",
-      "key": 27
+      "key": 32
     }, 
     {
       "vids": [
-        {
-          "user": "Valts",
-          "link": "https://youtu.be/9azBEBac35o",
-          "percent": 100
-        }
+        
       ],
       "name": "Electrobrawl v2",
-      "author": "Player Name",
+      "author": "fcsAlex7 [Valts]",
       "id": "4444",
       "percentToQualify": 100,
-      "verificationVid": "https://www.youtube.com/watch?v=1BOCqtK33lo",
-      "key": 28
+      "verificationVid": "https://youtu.be/9azBEBac35o",
+      "key": 33
     },
     {
       "vids": [
-        {
-          "user": "Valts",
-          "link": "https://youtu.be/7DX7H5nkVcM",
-          "percent": 100
-        }
+
       ],
       "name": "Cosmic Growl v2",
-      "author": "Player Name",
+      "author": "fcsAlex7 [Valts]",
       "id": "5791",
       "percentToQualify": 100,
-      "verificationVid": "https://youtu.be/YZAjKiqeqe4",
-      "key": 29
+      "verificationVid": "https://youtu.be/7DX7H5nkVcM",
+      "key": 34
     },
     {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://youtu.be/OR3LbrJCZ9k",
+        
+      ],
+      "name": "Starburst",
+      "author": "Finrex01",
+      "id": "6808",
+      "percentToQualify": 100,
+      "verificationVid": "https://youtu.be/NfcDs5PcN0k",
+      "key": 35
+    },
+    {
+		"vids": [
+      {
+          "user": "DuckFNAF",
+          "link": "https://youtu.be/U_Z3UNPzkRA",
           "percent": 100
         },
+		],
+		"name": "Skittles",
+		"author": "Finrex01",
+		"id": "6817",
+		"percentToQualify": 100,
+		"verificationVid": "https://youtu.be/pypC2W5F7Mk",
+		"key": 36
+	  }, 
+    {
+      "vids": [
         {
           "user": "Mr.Pandequeso",
           "link": "https://www.youtube.com/watch?v=m6251_Dfh6Y",
@@ -649,18 +697,13 @@ const d = {
       "id": "6302",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=gYuiJlZz_mA",
-      "key": 30
+      "key": 37
     },
     {
       "vids": [
         {
           "user": "Valts",
           "link": "https://youtu.be/M_2vYOHt71o",
-          "percent": 100
-        },
-        {
-          "user": "Player Name",
-          "link": "https://youtu.be/ICmExBIhkjw",
           "percent": 100
         },
         {
@@ -679,15 +722,10 @@ const d = {
       "id": "2330",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/LKFuptMOgTc?t=240",
-      "key": 31
+      "key": 38
     },
     {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=YOt0xwqW8O0",
-          "percent": 100
-        },
         {
           "user": "Sombreras",
           "link": "https://youtu.be/QRMJt8WIXdQ",
@@ -702,21 +740,21 @@ const d = {
           "user": "Mogaboss",
           "link": "https://www.youtube.com/watch?v=IWbvlHJr-_k",
           "percent": 100
-        }
+        },
+        {
+          "user": "zemljotres",
+          "link": "https://youtu.be/rrg6h76udJ4",
+          "percent": 100
+        },
       ],
       "name": "Memecore",
       "author": "elqmovie223",
       "id": "3271",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/xtIgqMMq_ro",
-      "key": 32
+      "key": 39
     }, {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=t0O_NqNvtuY",
-          "percent": 100
-        },
         {
           "user": "Valts",
           "link": "https://youtu.be/h726sQTvm2c",
@@ -728,15 +766,10 @@ const d = {
       "id": "3841",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/v7rWaUBBZJk",
-      "key": 33
+      "key": 40
     }, 
     {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=oc0FwV1IDkM",
-          "percent": 100
-        },
         {
           "user": "Valts",
           "link": "https://youtu.be/Kyo1N8BT2rs",
@@ -748,15 +781,10 @@ const d = {
       "id": "5900",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/pQoUwwL_l-E",
-      "key": 34
+      "key": 41
     },
     {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://youtu.be/I3z-6mAIJEU",
-          "percent": 100
-        },
         {
           "user": "thebabybeastone",
           "link": "https://www.youtube.com/watch?v=RmS7qaxavXU",
@@ -773,46 +801,51 @@ const d = {
       "id": "5163",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/U_8KSb1KFa0",
-      "key": 35
+      "key": 42
     }, {
       "vids": [
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=4vFHe3jv_HU",
-          "percent": 100
-        },
         {
           "user": "Valts",
           "link": "https://youtu.be/S3Jg-0qaM8k",
           "percent": 100
-        }
+        },
+        {
+          "user": "Domesz",
+          "link": "https://www.youtube.com/watch?v=uWRgyvpuAfk",
+          "percent": 100
+        },
       ],
       "name": "Lenin grib",
       "author": "Bit",
       "id": "3229",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4S3Ip48OV3U",
-      "key": 36
+      "key": 43
     }, 
     {
       "vids": [
         {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=TzR9mGvAtiE",
-          "percent": 100
-        },
-        {
           "user": "Valts",
           "link": "https://youtu.be/lbdnt5R4c5U",
           "percent": 100
-        }
+        },
+        {
+          "user": "Domesz",
+          "link": "https://www.youtube.com/watch?v=0_Y15QB2E9o",
+          "percent": 100
+        },
+        {
+					"user": "Jellythecoolestguy",
+					"link": "https://youtu.be/Te5QKTCJcvM",
+					"percent": 100
+				}
       ],
       "name": "Diamond Blade thing",
       "author": "sydno",
       "id": "317",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/0Egcd_WcnJI",
-      "key": 37
+      "key": 44
     }, {
       "vids": [
         {
@@ -821,15 +854,10 @@ const d = {
           "percent": 100
         },
         {
-					"user": "PR9NI4EK",
+					"user": "PR9NI4EK1488",
 					"link": "https://www.youtube.com/watch?v=Jq1KXRmTR50",
 					"percent": 100,
 				},
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=HU70NxTpuP0",
-          "percent": 100
-        },
         {
           "user": "Valts",
           "link": "https://youtu.be/i3MfZUtYMiQ",
@@ -850,13 +878,28 @@ const d = {
           "link": "https://youtu.be/1OGXYQJF4nk?t=155",
           "percent": 100
         },
+        {
+          "user": "Exvie",
+          "link": "https://www.youtube.com/watch?v=-8jrzODOOtM",
+          "percent": 100
+        },
+        {
+          "user": "Domesz",
+          "link": "https://www.youtube.com/watch?v=QKbxqu9HJfo",
+          "percent": 100
+        },
+        {
+          "user": "Monstrosity",
+          "link": "https://www.youtube.com/watch?v=4ckwGjEm8g4",
+          "percent": 100
+        },
       ],
       "name": "Game Breaker Redux",
       "author": "zemljotres",
       "id": "176",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Mlq2lXM657I",
-      "key": 38
+      "key": 45
     }, {
       "vids": [
         {
@@ -900,11 +943,6 @@ const d = {
 					"percent": 100
 				},
 				{
-					"user": "Player Name",
-					"link": "https://youtu.be/qaXToLmNd-8",
-					"percent": 100
-				},
-				{
 					"user": "Gecko",
 					"link": "https://youtu.be/QKCuVoTb2do",
 					"percent": 100
@@ -925,7 +963,7 @@ const d = {
           "percent": 100
         },
         {
-					"user": "PR9NI4EK",
+					"user": "PR9NI4EK1488",
 					"link": "https://www.youtube.com/watch?v=6Vud5mBtJRI",
 					"percent": 100,
 				},
@@ -954,13 +992,39 @@ const d = {
           "link": "https://www.youtube.com/watch?v=spX9WnkygBQ",
           "percent": 100
         },
+        {
+          "user": "Finrex01",
+          "link": "https://youtu.be/15BNXxCXF28",
+          "percent": 100
+        },
+        {
+          "user": "Domesz",
+          "link": "https://www.youtube.com/watch?v=v-cUc_HF8cs",
+          "percent": 100
+        },
+        {
+          "user": "zemljotres",
+          "link": "https://youtu.be/_xH6HjLVQfY",
+          "percent": 100
+        },
       ],
       "name": "Silent Soul",
       "author": "Bread [Drizzxy]",
       "id": "5133",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/boBQUDtTBOo",
-      "key": 39
+      "key": 46
+    },
+          {
+      "vids": [
+
+      ],
+      "name": "looyC",
+      "author": "Cyool",
+      "id": "7179",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=iusv9qHc6Bs",
+      "key": 47
     },
     {
       "vids": [
@@ -980,7 +1044,7 @@ const d = {
           "percent": 100
         },
         {
-					"user": "PR9NI4EK",
+					"user": "PR9NI4EK1488",
 					"link": "https://www.youtube.com/watch?v=2qw120vn5Mc",
 					"percent": 100,
 				},
@@ -992,11 +1056,6 @@ const d = {
         {
           "user": "thebabybeastone",
           "link": "https://youtu.be/_1isQUUV46c?t=67",
-          "percent": 100
-        },
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=VDxjP82OZEs",
           "percent": 100
         },
         {
@@ -1014,13 +1073,43 @@ const d = {
           "link": "https://www.youtube.com/watch?v=plkeWUPoTHA",
           "percent": 100
         },
+         {
+          "user": "Finrex01",
+          "link": "https://www.youtube.com/watch?v=wm3riKyeeds",
+          "percent": 100
+        },
+        {
+          "user": "JomsTRP",
+          "link": "https://www.youtube.com/watch?v=4d7yE93WDZc",
+          "percent": 100
+        },
+        {
+          "user": "∆∆∆",
+          "link": "https://youtu.be/EIzdNl-G_qc",
+          "percent": 100
+        },
+        {
+          "user": "AdrianB18",
+          "link": "https://youtu.be/hRLjdfAGPKY",
+          "percent": 100
+        },
+        {
+          "user": "Domesz",
+          "link": "https://www.youtube.com/watch?v=v2RSmq2a1iw",
+          "percent": 100
+        },
+        {
+          "user": "zemljotres",
+          "link": "https://youtu.be/hTmiAjLuQL8",
+          "percent": 100
+        },
       ],
       "name": "The Final Blade",
       "author": "maxo5 [Monstrosity]",
       "id": "58",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=hi1zAE6ozQ8",
-      "key": 40
+      "key": 48
     },
     {
       "vids": [
@@ -1035,7 +1124,7 @@ const d = {
           "percent": 100
         },
         {
-					"user": "PR9NI4EK",
+					"user": "PR9NI4EK1488",
 					"link": "https://www.youtube.com/watch?v=3lhHslPKiCc",
 					"percent": 100,
 				},
@@ -1047,11 +1136,6 @@ const d = {
         {
           "user": "thebabybeastone",
           "link": "https://www.youtube.com/watch?v=_1isQUUV46c",
-          "percent": 100
-        },
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=lm2iM-LGeYk",
           "percent": 100
         },
         {
@@ -1084,75 +1168,44 @@ const d = {
           "link": "https://youtu.be/VWhGYy_FYOY",
           "percent": 100
         },
+        {
+          "user": "JomsTRP",
+          "link": "https://www.youtube.com/watch?v=9wzURkQ8yRM",
+          "percent": 100
+        },
+        {
+          "user": "∆∆∆",
+          "link": "https://www.youtube.com/watch?v=SEps6qMYffI",
+          "percent": 100
+        },
+        {
+          "user": "AdrianB18",
+          "link": "https://www.youtube.com/watch?v=AXY6CmGT8lA",
+          "percent": 100
+        },
+        {
+          "user": "Domesz",
+          "link": "https://www.youtube.com/watch?v=17k2r4fTbjg",
+          "percent": 100
+        },
+        {
+          "user": "zemljotres",
+          "link": "https://youtu.be/sJrS17EBURc",
+          "percent": 100
+        },
+        {
+          "user": "Brody9999",
+          "link": "https://youtu.be/fZAPLWGt_08",
+          "percent": 100
+        },
       ],
       "name": "Temple of Demons",
       "author": "maxo5 [Monstrosity]",
       "id": "83",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=kJt0-nk1A5o",
-      "key": 41
-    },
-    {
-      "vids": [
-        {
-          "user": "Sombreras",
-          "link": "https://www.youtube.com/watch?v=ji-s_sRmqeo",
-          "percent": 100
-        },
-        {
-          "user": "Player Name",
-          "link": "https://www.youtube.com/watch?v=ae6wXq6GjoM",
-          "percent": 100
-        },
-        {
-          "user": "Valts",
-          "link": "https://youtu.be/tR1BqjixDd4",
-          "percent": 100
-        },
-        {
-          "user": "boro",
-          "link": "https://www.youtube.com/watch?v=xgUqEX9ozGU",
-          "percent": 100
-        },
-        {
-          "user": "Zippiks",
-          "link": "https://youtu.be/_x42VNqN3LU",
-          "percent": 100
-        },
-        {
-          "user": "ChaseLux",
-          "link": "https://www.youtube.com/watch?v=zicAMz5xD3A",
-          "percent": 100
-        },
-        {
-          "user": "Mr.Pandequeso",
-          "link": "https://www.youtube.com/watch?v=at0hzUduDh0",
-          "percent": 100
-        },
-        {
-          "user": "cowcow22",
-          "link": "https://www.youtube.com/watch?v=jyEtaNlwhMA",
-          "percent": 100
-        },
-        {
-          "user": "JujuPX",
-          "link": "https://www.youtube.com/watch?v=d1fEmlqXlV8",
-          "percent": 100
-        },
-        {
-          "user": "egg",
-          "link": "https://www.youtube.com/watch?v=6Xuk6hhKX68",
-          "percent": 100
-        },
-      ],
-      "name": "DEMON",
-      "author": "Monstrosity",
-      "id": "5673",
-      "extra": "LDM: 5925",
-      "percentToQualify": 100,
-      "verificationVid": "https://www.youtube.com/watch?v=-oDJ0SNVHBY",
-      "key": 42
-    },
+      "key": 49
+    }
     /*=================================================================================*/
   ],
   "version": [

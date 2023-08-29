@@ -3,10 +3,36 @@ const d = {
 	"list": [
     {
 			"vids": [
+        
+			],
+			"name": "µ",
+      
+                    "author": "Sombreras []",
+                    "id": 7106,
+					          "diff": "Demon",
+                    "percentToQualify": 0,
+                    "verificationVid": "https://www.youtube.com/watch?v=fobkO-2zNAQ",
+                    "key": 0,
+                    "extra": "Max percentage is: 39"
+			},
+    {
+			"vids": [
         {
 					"user": "Monstrosity",
 					"link": "https://www.youtube.com/watch?v=6xGefDt6wng",
 					"percent": 4.45,
+          "hz": "60Hz"
+				},
+        {
+					"user": "Sombreras",
+					"link": "https://youtu.be/oWzjLziTnmY",
+					"percent": 4.7,
+          "hz": "60Hz"
+				},
+        {
+					"user": "Jellythecoolestguy",
+					"link": "https://www.youtube.com/watch?v=zMKt365rSTs",
+					"percent": 4.7,
           "hz": "60Hz"
 				}
 			],
@@ -17,7 +43,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=M_OjOAWyTXc",
-                    "key": 0,
+                    "key": 1,
                     "extra": "Max percentage is: 404"
 			},	
     {
@@ -48,7 +74,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=SKdeugh8Npo",
-                    "key": 1,
+                    "key": 2,
                     "extra": "Max percentage is: 356"
 			},	
     {
@@ -71,7 +97,7 @@ const d = {
       "id": 6246,
       "percentToQualify": 0,
       "verificationVid": "https://youtu.be/wrzwdim4P2g",
-      "key": 2,
+      "key": 3,
       "extra": "Max percentage is: 439"
     },
       {
@@ -87,7 +113,13 @@ const d = {
 					"link": "https://youtu.be/6r9tAIKydSE",
 					"percent": 1.26,
           "hz": "60Hz"
-        }
+        },
+        {
+					"user": "Bit",
+					"link": "https://youtu.be/8CFy6-J5GB8",
+					"percent": 2.69,
+          "hz": "60Hz"
+        },
 			],
 			"name": "Violence",
       
@@ -96,7 +128,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=0tEZGabPWro",
-                    "key": 3,
+                    "key": 4,
                     "extra": "Max percentage is: 1190"
 			},
     {
@@ -121,7 +153,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=lv0Uan9YfGA",
-                    "key": 4,
+                    "key": 5,
                     "extra": "Max percentage is: 589"
 			},
       {
@@ -170,7 +202,7 @@ const d = {
       "diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=0fZ3lk2hYR4",
-      "key": 5,
+      "key": 6,
       "extra": "Max percentage is: 600"
       },  {
 			"vids": [
@@ -211,8 +243,22 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 2,
       "verificationVid": "https://youtu.be/hMDt_W_QSx4",
-      "key": 6,
+      "key": 7,
       "extra": "Max percentage is: 395"
+			},
+    {
+			"vids": [
+
+			],
+			"name": "Silent Overworld",
+      
+                    "author": "Monstrosity []",
+                    "id": 757,
+					          "diff": "Demon",
+                    "percentToQualify": 0,
+                    "verificationVid": "https://www.youtube.com/watch?v=gzfunAbDs10",
+                    "key": 8,
+                    "extra": "Max percentage is: 602"
 			},
     {
 			"vids": [
@@ -225,7 +271,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=lQ9vqC__4uo",
-                    "key": 7,
+                    "key": 9,
                     "extra": "Max percentage is: 600"
 			},
     {
@@ -255,7 +301,7 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=8tQCPhFj1ac",
-      "key": 8,
+      "key": 10,
       "extra": "Max percentage is: 107"
 			},
       {
@@ -271,7 +317,13 @@ const d = {
 					"link": "https://youtu.be/6r9tAIKydSE?t=16",
 					"percent": 5.05,
           "hz": "60Hz"
-        }
+        },
+        {
+					"user": "ChaseLux",
+					"link": "https://www.youtube.com/watch?v=ZqYyVcJeZp4",
+					"percent": 8.12,
+          "hz": "144Hz"
+        },
       ],
 			"name": "Slaughterhouse 1987 real",
       
@@ -280,44 +332,8 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=1CYP_nnGZl8",
-                    "key": 9,
+                    "key": 11,
                     "extra": "Max percentage is: 554"
-			},
-    {
-			"vids": [
-        {
-					"user": "boro",
-					"link": "https://www.youtube.com/watch?v=OC5kORvV5x0",
-					"percent": 9.57,
-          "hz": "60Hz"
-        },
-        {
-					"user": "ChaseLux",
-					"link": "https://www.youtube.com/watch?v=NYwVJrx0hXg",
-					"percent": 29.25,
-          "hz": "144Hz"
-        },
-        {
-					"user": "Bit",
-					"link": "https://www.youtube.com/watch?v=fpNxz1xZAqg",
-					"percent": 25.53,
-          "hz": "60Hz"
-        },
-        {
-					"user": "Monstrosity",
-					"link": "https://youtu.be/6r9tAIKydSE?t=11",
-					"percent": 10.1,
-          "hz": "60Hz"
-        }
-      ],
-			"name": "3SH in Hell",
-      "author": "boro []",
-      "id": 6247,
-			"diff": "Demon",
-      "percentToQualify": 0,
-      "verificationVid": "https://www.youtube.com/watch?v=8BUwQjYmQHk",
-      "key": 10,
-      "extra": "Max percentage is: 188"
 			},
     {
 			"vids": [
@@ -352,27 +368,8 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=VnyTN98nOS8",
-      "key": 11,
+      "key": 12,
       "extra": "Max percentage is: 194"
-			},
-      {
-			"vids": [
-        {
-					"user": "Ayueshi",
-					"link": "https://youtu.be/R5zaxGMNVy8",
-					"percent": 14.48,
-          "hz": "60Hz"
-				},
-			],
-			"name": "Deadly Soul",
-      
-                    "author": "Monstrosity []",
-                    "id": 6594,
-					          "diff": "Demon",
-                    "percentToQualify": 0,
-                    "verificationVid": "https://www.youtube.com/watch?v=w9_aKzHxAqY",
-                    "key": 12,
-                    "extra": "Max percentage is: 642"
 			},
       {
 			"vids": [
@@ -382,6 +379,12 @@ const d = {
 					"percent": 18.51,
           "hz": "60Hz"
 				},
+        {
+					"user": "Sombreras",
+					"link": "https://www.youtube.com/watch?v=f1YlTEw4Fvg",
+					"percent": 25,
+          "hz": "180Hz"
+				}
 			],
 			"name": "kanye west challenge",
       

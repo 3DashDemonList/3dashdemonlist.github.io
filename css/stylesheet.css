@@ -33,6 +33,7 @@
     top: 35px;
     right: 230px;
     font-size: 1.3em;
+    width: auto;
   }
   #pc-link{
     position: fixed;

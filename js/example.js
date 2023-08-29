@@ -7,7 +7,8 @@ const d = {
       "diff": "demon",
       "percentToQualify": 70,
       "verificationVid": "https://www.youtube.com/watch?v=KDa5c0CJTHs",
-      "key": 0
+      "key": 0,
+     "Spoofershit": true
     }, {
       "vids": [
 
@@ -18,7 +19,9 @@ const d = {
       "diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=uy2yg4WMJ1A",
-      "key": 1
+      "key": 1,
+      "Spooferhit": false
+     
     }, {
       "vids": [
         {
@@ -33,7 +36,8 @@ const d = {
       "diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "urmom.yt.com",
-      "key": 2
+      "key": 2,
+      "hacked": true
     }, {
       "vids": [
 
@@ -51,7 +55,8 @@ const d = {
         {
           "user": "Bit",
           "link": "https://youtu.be/JtZ1Rgv0EdU",
-          "percent": 6.833
+          "percent": 6.833,
+          "hacked": true
         }
       ],
       "name": "Wrath",
@@ -71,7 +76,8 @@ const d = {
       "diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://youtu.be/dZsxNgJXWR4",
-      "key": 5
+      "key": 5,
+      "hacked": false
     }, {
       //COMMAS ARE VERY IMPORTANT!
       "vids": [

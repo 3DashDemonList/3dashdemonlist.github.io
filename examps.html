@@ -322,6 +322,14 @@
                     hacked = " <span class='p-hacked'>POSSIBLY HACKED</span>";
                 }
             }
+           var Spoofershit = "";
+            if (entry.Spoofershit != null) {
+                if (entry.Spoofershit) {
+                    Spoofershit = " <span class='SpooferShit'>Shitter level</span>";
+                } else {
+                    Spoofershit = " <span class='Spooferonly'>Spoofer is bad</span>";
+                }
+            }
             $("#levelname").html((rank > 50 ? `` : `#` + rank + ` `) + entry.name + hacked);
             var author = entry.author;
             var final_author;

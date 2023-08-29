@@ -1,7 +1,59 @@
 
 const d = {
 	"list": [
-	{
+    {
+		"vids": [
+      {
+			 "user": "Sydno",
+			 "link": "https://youtu.be/fZTUX1LbInA",
+			 "percent": 100
+		  }
+		],
+		"name": "I See",
+		"author": "Cursed",
+		"id": "6674",
+		"percentToQualify": 60,
+		"verificationVid": "https://www.youtube.com/watch?v=DpIrLW9DLjw",
+		"key": 0
+	  },
+        {
+		"vids": [
+      {
+			 "user": "Sydno",
+			 "link": "https://youtu.be/fZTUX1LbInA",
+			 "percent": 100
+		  }
+		],
+		"name": "Cry Me A River",
+		"author": "Sydno",
+		"id": "73",
+		"percentToQualify": 60,
+		"verificationVid": "https://youtu.be/uS2Tm6q4Obo",
+		"key": 1
+	  },
+        {
+		"vids": [
+  
+		],
+		"name": "VSC",
+		"author": "Sydno",
+		"id": "6736",
+		"percentToQualify": 50,
+		"verificationVid": "https://youtu.be/ZOMSBfp_wtc",
+		"key": 2
+	  },
+        {
+		"vids": [
+  
+		],
+		"name": "Bocadillo de Albondiga",
+		"author": "madeinpoland [Sydno]",
+		"id": "475",
+		"percentToQualify": 50,
+		"verificationVid": "https://youtu.be/qdCO6H9K-fI",
+		"key": 3
+	  },
+        {
 		"vids": [
 	
 		],
@@ -11,7 +63,7 @@ const d = {
 		"extra": "LDM: 6557, ULDM: 6558",
 		"percentToQualify": 85,
 		"verificationVid": "https://www.youtube.com/watch?v=WeOEjKGsKfw",
-		"key": 0
+		"key": 4
 	  },
 	  {
 		"vids": [
@@ -22,29 +74,18 @@ const d = {
 		"id": "1285",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=V0hQ_9mh6hA",
-		"key": 1
+		"key": 5
 	  }, 
 	  {
 		"vids": [
   
 		],
-		"name": "VSC",
-		"author": "Conix",
-		"id": "396",
-		"percentToQualify": 50,
-		"verificationVid": "https://www.youtube.com/watch?v=aH0Xd_Ji9UQ",
-		"key": 2
-	  },
-	  {
-		"vids": [
-  
-		],
 		"name": "Building",
-		"author": "Valts",
+		"author": "Valts [Sydno]",
 		"id": "1373",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=VnlW9-RCX2M",
-		"key": 3
+		"key": 6
 	  }, 
 	  {
 		"vids": [
@@ -55,7 +96,7 @@ const d = {
 		"id": "460",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=Aim-rvzOmW8",
-		"key": 4
+		"key": 7
 	  }, 
 	  {
 		"vids": [
@@ -75,7 +116,7 @@ const d = {
 		"id": "1149",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=Q3REJBC6J-U",
-		"key": 5
+		"key": 8
 	  }, 
 	  {
 		"vids": [
@@ -86,18 +127,22 @@ const d = {
 		"id": "1182",
 		"percentToQualify": 55,
 		"verificationVid": "https://www.youtube.com/watch?v=CuMXhtuQS-0",
-		"key": 6
+		"key": 9
 	  },
 	  {
 		"vids": [
-  
+      {
+			 "user": "Sydno",
+			 "link": "https://www.youtube.com/watch?v=4LMIpm8eyXU",
+			 "percent": 100
+		  }
 		],
 		"name": "Tower",
 		"author": "Valts",
 		"id": "770",
 		"percentToQualify": 50,
-		"verificationVid": "https://www.youtube.com/watch?v=4LMIpm8eyXU",
-		"key": 7
+		"verificationVid": "https://www.youtube.com/watch?v=6FDH4wIZgPQ",
+		"key": 10
 	  }, 
 	  {
 		"vids": [
@@ -113,8 +158,19 @@ const d = {
 		"id": "767",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=HNPcPdZlNbY",
-		"key": 8
+		"key": 11
 	  },
+    {
+		"vids": [
+  
+		],
+		"name": "DonetskPeople's Republic",
+		"author": "ZTgoosebutarabic",
+		"id": "6710",
+		"percentToQualify": 100,
+		"verificationVid": "https://youtu.be/DlZoxV8ExxE",
+		"key": 12
+	  }, 
 	  {
 		"vids": [
   
@@ -124,7 +180,7 @@ const d = {
 		"id": "3250",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/s5cLqLvvub4",
-		"key": 9
+		"key": 13
 	  },
 	  {
 		"vids": [
@@ -135,7 +191,7 @@ const d = {
 		"id": "3071",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/TxgHOBqpoR4",
-		"key": 10
+		"key": 14
 	  }, 
 	  {
 		"vids": [
@@ -146,7 +202,7 @@ const d = {
 		"id": "588",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/MZT6srZOVIU?t=26",
-		"key": 11
+		"key": 15
 	  },
 	  {
 		"vids": [
@@ -157,7 +213,7 @@ const d = {
 		"id": "1126",
 		"percentToQualify": 44,
 		"verificationVid": "https://www.youtube.com/watch?v=11G1jnTXO1M",
-		"key": 12
+		"key": 16
 	  }, 
 		  {
 		"vids": [
@@ -182,7 +238,7 @@ const d = {
 		"id": "1363",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/EYmQ7TtUUO8",
-		"key": 13
+		"key": 17
 	  }, 
 	  {
 		"vids": [
@@ -197,7 +253,7 @@ const d = {
 		"id": "313",
 		"percentToQualify": 78,
 		"verificationVid": "https://www.youtube.com/watch?v=_n2lGsdLV3Y",
-		"key": 14
+		"key": 18
 	  },  
 	  {
 		"vids": [
@@ -208,18 +264,7 @@ const d = {
 		"id": "407",
 		"percentToQualify": 57,
 		"verificationVid": "https://www.youtube.com/watch?v=mJlA9lbF6Dw",
-		"key": 15
-	  }, 
-	  {
-		"vids": [
-  
-		],
-		"name": "DonetskPeople's Republic",
-		"author": "ZTgoosebutarabic",
-		"id": "499",
-		"percentToQualify": 50,
-		"verificationVid": "https://youtube.com/watch?v=PylgDqMH4sM",
-		"key": 16
+		"key": 19
 	  }, 
 	  {
 		"vids": [
@@ -230,7 +275,7 @@ const d = {
 		"id": "3202",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/QtoKB_UvvCU",
-		"key": 17
+		"key": 20
 	  },
 	  {
 		"vids": [
@@ -245,7 +290,17 @@ const d = {
 		"id": "6103",
 		"percentToQualify": 100,
 		"verificationVid": "https://youtu.be/LDABBGsjz_I",
-		"key": 18
+		"key": 21
+	  },
+    {
+		"vids": [
+		],
+		"name": "turkey",
+		"author": "ZTgoosebutarabic",
+		"id": "490",
+		"percentToQualify": 100,
+		"verificationVid": "https://youtu.be/_5jWRWEJt6U",
+		"key": 22
 	  },
 	  {
 		"vids": [
@@ -256,7 +311,7 @@ const d = {
 		"id": "775",
 		"percentToQualify": 100,
 		"verificationVid": "https://www.youtube.com/watch?v=YzHtveIc45s",
-		"key": 19
+		"key": 23
 	  },
 	  {
 		"vids": [
@@ -271,7 +326,7 @@ const d = {
 		"id": "362",
 		"percentToQualify": 69,
 		"verificationVid": "https://www.youtube.com/watch?v=i_8NoQv3mgI",
-		"key": 20
+		"key": 24
 	  },  
 	  {
 		"vids": [
@@ -286,8 +341,19 @@ const d = {
 		"id": "3095",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=LeVtXLLjSU8",
-		"key": 21
+		"key": 25
 	  }, 
+        {
+		"vids": [
+  
+		],
+		"name": "3SH in Hell",
+		"author": "boro [Sydno]",
+		"id": "6247",
+		"percentToQualify": 50,
+		"verificationVid": "https://youtu.be/6HqiLRdTFPU",
+		"key": 26
+	  },
 	  {
 		"vids": [
 		  {
@@ -311,7 +377,7 @@ const d = {
 		"id": "3073",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/ix-41uuF4Xc",
-		"key": 22
+		"key": 27
 	  }, 
 	  {
 		"vids": [
@@ -326,7 +392,7 @@ const d = {
 		"id": "476",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=RtYbf1CCAA4",
-		"key": 23
+		"key": 28
 	  },
 	  {
 		"vids": [
@@ -337,7 +403,7 @@ const d = {
 		"id": "3260",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=YkOZAnKXWUE",
-		"key": 24
+		"key": 29
 	  },  
 	  {
 		"vids": [
@@ -357,8 +423,18 @@ const d = {
 		"id": "3064",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/LsYZgmGm5wE",
-		"key": 25
+		"key": 30
 	  }, 
+    {
+		"vids": [
+		],
+		"name": "РАЗ ДВА ТРИ ЧЕТЫРЕ ХАЧ",
+		"author": "ZTgoosebutarabic",
+		"id": "777",
+		"percentToQualify": 100,
+		"verificationVid": "https://www.youtube.com/watch?v=3yUPnuZPomc",
+		"key": 31
+	  },
 	  {
 		"vids": [
   
@@ -368,7 +444,7 @@ const d = {
 		"id": "105",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=0wUO0GfiRLw",
-		"key": 26
+		"key": 32
 	  }, 
 	  {
 		"vids": [
@@ -380,7 +456,7 @@ const d = {
 		"extra": "LDM: 6272",
 		"percentToQualify": 100,
 		"verificationVid": "https://www.youtube.com/watch?v=_jbsqRqoi6A",
-		"key": 27
+		"key": 33
 	  },
 	  {
 		"vids": [
@@ -395,7 +471,7 @@ const d = {
 		"id": "1047",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=5DxZczbRSY4",
-		"key": 28
+		"key": 34
 	  },  
 	  {
 		"vids": [
@@ -406,7 +482,7 @@ const d = {
 		"id": "169",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=--XiF809cEQ",
-		"key": 29
+		"key": 35
 	  },
 	  {
 		"vids": [
@@ -417,7 +493,7 @@ const d = {
 		"id": "394",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=MLMKuyCkhFs",
-		"key": 30
+		"key": 36
 	  },
 	  {
 		"vids": [
@@ -432,7 +508,7 @@ const d = {
 		"id": "764",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=jqJOuz9ctHw",
-		"key": 31
+		"key": 37
 	  },     
 	  {
 
@@ -441,14 +517,19 @@ const d = {
 			 "user": "Sombreras",
 			 "link": "https://www.youtube.com/watch?v=H-b0wm4s5zc",
 			 "percent": 100
-		  }
+		  },
+      {
+					  "user": "ZTgoosebutarabic",
+					  "link": "https://www.youtube.com/watch?v=ysQ6S4dZHk0",
+					  "percent": 100
+			}
 		],
 		"name": "Final Fantasy",
 		"author": "ChaseLux",
 		"id": "6255",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=PT0b7GtCNQA",
-		"key": 32
+		"key": 38
 	  },
 	  {
 		"vids": [
@@ -459,7 +540,7 @@ const d = {
 		"id": "421",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=JX0tCO6ZUkg",
-		"key": 33
+		"key": 39
 	  },
 	  {
 		"vids": [
@@ -470,7 +551,18 @@ const d = {
 		"id": "342",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=V7JA5AQdmCM",
-		"key": 34
+		"key": 40
+	  },
+    {
+		"vids": [
+  
+		],
+		"name": "david rakviashvili",
+		"author": "ZTgoosebutarabic",
+		"id": "743",
+		"percentToQualify": 100,
+		"verificationVid": "https://www.youtube.com/watch?v=kfrZRPf2Hqo",
+		"key": 41
 	  },
 	  {
 		"vids": [
@@ -481,7 +573,7 @@ const d = {
 		"id": "768",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=z7U5DasmJOs",
-		"key": 35
+		"key": 42
 	  },
 	  {
 		"vids": [
@@ -492,7 +584,7 @@ const d = {
 		"id": "769",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=h-tggMSGcx0&t=18s",
-		"key": 36
+		"key": 43
 	  },        
 	  {
 		"vids": [
@@ -503,7 +595,7 @@ const d = {
 		"id": 6110,
 		"percentToqualify": 50,
 		"verificationVid": "https://youtu.be/KcXz0XIYwPU?t=622",
-		"key": 37
+		"key": 44
 	  },         
 	  {
 		"vids": [
@@ -514,8 +606,19 @@ const d = {
 		"id": "1275",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=AvrGNePCVS8",
-		"key": 38
+		"key": 45
 	  },
+    {
+		"vids": [
+  
+		],
+		"name": "shuriken 44p buff",
+		"author": "ZTgoosebutarabic",
+		"id": "1335",
+		"percentToQualify": 50,
+		"verificationVid": "https://www.youtube.com/watch?v=KgbIC_yLhTk",
+		"key": 46
+	  },  
 	  {
 		"vids": [
   
@@ -525,7 +628,7 @@ const d = {
 		"id": "483",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/RtYbf1CCAA4?t=10",
-		"key": 39
+		"key": 47
 	  },          
 	  {
 		"vids": [
@@ -536,7 +639,7 @@ const d = {
 		"id": "538",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/MZT6srZOVIU?t=10",
-		"key": 40
+		"key": 48
 	  },
 	  {
 		"vids": [
@@ -556,7 +659,17 @@ const d = {
 		"id": "264",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=fm9JqwbYoBw",
-		"key": 41
+		"key": 49
+	  },
+        {
+		"vids": [
+		],
+		"name": "Blood.Strike",
+		"author": "Monstrosity",
+		"id": "7104",
+		"percentToQualify": 50,
+		"verificationVid": "https://www.youtube.com/watch?v=BMrOGfEY9i0",
+		"key": 50
 	  },
 	  {
 		"vids": [
@@ -567,7 +680,7 @@ const d = {
 	   "verificationVid": "",
 	   "percentToQualify": 100,
 	   "extra": "https://clipchamp.com/watch/PMO9sU7JK4L",
-	   "key": 42
+	   "key": 51
 	 },
 	 {
 		"vids": [
@@ -578,7 +691,7 @@ const d = {
 		"id": "3326",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/Tz4qLUrQjQE",
-		"key": 43
+		"key": 52
 	  },     
 	  {
 		"vids": [
@@ -589,7 +702,7 @@ const d = {
 		"id": "6360",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=rkavYPMBCZk",
-		"key": 44
+		"key": 53
 	  },
 	  
 	  {
@@ -605,7 +718,7 @@ const d = {
 		"id": "3376",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/PPXfd6ejnLs",
-		"key": 45
+		"key": 54
 	  }, 
 	  {
 		"vids": [
@@ -625,7 +738,7 @@ const d = {
 		"id": "302",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=h6dYHGcxUc4",
-		"key": 46
+		"key": 55
 	  },
 	  {
 		"vids": [
@@ -640,7 +753,7 @@ const d = {
 		"id": "347",
 		"percentToQualify": 100,
 		"verificationVid": "https://www.youtube.com/watch?v=yr0KUmLqFxg",
-		"key": 47
+		"key": 56
 	  },           
 	  {
 		"vids": [
@@ -658,7 +771,17 @@ const d = {
 			"user": "Sombreras",
 			"link": "https://youtu.be/sbHSHVJHNkI?t=19",
 			"percent": 100
-		  }
+		  },
+      {
+			"user": "ChaseLux",
+			"link": "https://www.youtube.com/watch?v=uXxW-3wqAos",
+			"percent": 100
+		  },
+      {
+          "user": "qn2h",
+          "link": "https://www.youtube.com/watch?v=RLuToqfX1gg",
+          "percent": 100
+        },
 		],
 		"name": "god of wave Z",
 		"author": "sydno",
@@ -666,7 +789,7 @@ const d = {
 		"percentToQualify": 100,
 		"verificationVid": "",
 		"extra": "don't have the video but it exists somewhere",
-		"key": 48
+		"key": 57
 	  },
 	  {
 		"vids": [
@@ -679,14 +802,19 @@ const d = {
 			"user": "ChaseLux",
 			"link": "https://youtu.be/c9G4SjUGO40",
 			"percent": 100
-		  }
+		  },
+      {
+          "user": "qn2h",
+          "link": "https://www.youtube.com/watch?v=RLuToqfX1gg",
+          "percent": 100
+        },
 		],
 		"name": "Sydno Always Clear",
 		"author": "Ayueshi",
 		"id": "306",
 		"percentToQualify": 100,
 		"verificationVid": "https://www.youtube.com/watch?v=_pKTYwS6G50",
-		"key": 49
+		"key": 58
 	  },  
 	  {
 		"vids": [
@@ -711,7 +839,7 @@ const d = {
 		"id": "4852",
 		"percentToQualify": 50,
 		"verificationVid": "https://youtu.be/GgADqY2glTQ?t=179",
-		"key": 50
+		"key": 59
 	  }, 
 	  {
 		"vids": [
@@ -726,7 +854,7 @@ const d = {
 		"id": "6127",
 		"percentToQualify": 100,
 		"verificationVid": "https://www.youtube.com/watch?v=MAnhLIPotwY",
-		"key": 51
+		"key": 60
 	  }, 
 	  {
 		"vids": [
@@ -742,7 +870,7 @@ const d = {
 		"percentToQualify": 100,
 		"verificationVid": "",
 		"extra": "https://clipchamp.com/watch/0WDbXvpJrlq",
-		"key": 52
+		"key": 61
 	  },
 	  {
 		"vids": [
@@ -830,15 +958,31 @@ const d = {
 					  "user": "Sombreras",
 					  "link": "https://clipchamp.com/watch/jeC6vriLMiN",
 					  "percent": 100
-				  }
+				  },
+      {
+			"user": "ChaseLux",
+			"link": "https://www.youtube.com/watch?v=uXxW-3wqAos",
+			"percent": 100
+		  }
 		],
 		"name": "Wave Challenge",
 		"author": "Spenguin",
 		"id": "295",
 		"percentToQualify": 100,
 		"verificationVid": "https://youtu.be/6hg5-10PJsQ",
-		"key": 53
+		"key": 62
 	  }, 
+        {
+		"vids": [
+
+		],
+		"name": "Blood.Fake",
+		"author": "Monstrosity",
+		"id": "7055",
+		"percentToQualify": 50,
+		"verificationVid": "https://www.youtube.com/watch?v=ihSIq3FIhbg",
+		"key": 63
+	  },
 	  {
 		"vids": [
 		  {
@@ -872,7 +1016,7 @@ const d = {
 		"id": "3272",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=Vchw5TsnMeg",
-		"key": 54
+		"key": 64
 	  },
 	  {
 		"vids": [
@@ -940,6 +1084,16 @@ const d = {
 			"user": "kBruh GD",
 			"link": "https://www.youtube.com/watch?v=XXffCkVjM6w",
 			"percent": 100
+		  },
+      {
+          "user": "AdrianB18",
+          "link": "https://www.youtube.com/watch?v=lh7dAbTI-BE",
+          "percent": 100
+      },
+      {
+			"user": "ChaseLux",
+			"link": "https://www.youtube.com/watch?v=uXxW-3wqAos",
+			"percent": 100
 		  }
 		],
 		"name": "Hype",
@@ -947,17 +1101,27 @@ const d = {
 		"id": "292",
 		"percentToQualify": 100,
 		"verificationVid": "https://youtu.be/s5o-NserzUA",
-		"key": 55
+		"key": 65
 	  }, 
 	  {
 		"vids": [
+      {
+			"user": "ChaseLux",
+			"link": "https://www.youtube.com/watch?v=uXxW-3wqAos",
+			"percent": 100
+		  },
+        {
+          "user": "DuckFNAF",
+          "link": "https://youtu.be/Ac6N5HPbVyI",
+          "percent": 100
+        },
 		],
 		"name": "HORSE",
 		"author": "Zippiks",
 		"id": "6202",
 		"percentToQualify": 100,
 		"verificationVid": "https://youtu.be/e6DQQNccpsM",
-		"key": 56
+		"key": 66
 	  }
     
     /*=================================================================================*/
