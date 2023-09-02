@@ -119,16 +119,7 @@ const d = {
       "verificationVid": "https://youtu.be/ZJxiEhLJGnA",
       "key": 8
     },
-    {
-      "vids": [
-      ],
-      "name": "SUPERHATEMEWORLD",
-      "author": "pokics [Sombreras]",
-      "id": "34",
-      "percentToQualify": 100,
-      "verificationVid": "https://youtu.be/_ONyjNilEYw",
-      "key": 9
-    },
+    
     {
       "vids": [
       ],
@@ -137,7 +128,7 @@ const d = {
       "id": "3283",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Ft5LA-VAPOo",
-      "key": 10
+      "key": 9
     },
     {
       "vids": [
@@ -148,7 +139,7 @@ const d = {
       "id": "6903",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=ZukmOxm4sCE",
-      "key": 11
+      "key": 10
     },
     {
       "vids": [
@@ -193,6 +184,17 @@ const d = {
       "id": "4725",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=K04wUybT_iw",
+      "key": 11
+    },
+          {
+      "vids": [
+        
+      ],
+      "name": "SUPERHATEMEWORLD",
+      "author": "pokics [Sombreras]",
+      "id": "34",
+      "percentToQualify": 100,
+      "verificationVid": "https://youtu.be/_ONyjNilEYw",
       "key": 12
     },
     {

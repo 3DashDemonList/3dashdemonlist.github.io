@@ -31,29 +31,7 @@ const d = {
 		"verificationVid": "https://youtu.be/uS2Tm6q4Obo",
 		"key": 1
 	  },
-        {
-		"vids": [
-  
-		],
-		"name": "VSC",
-		"author": "Sydno",
-		"id": "6736",
-		"percentToQualify": 50,
-		"verificationVid": "https://youtu.be/ZOMSBfp_wtc",
-		"key": 2
-	  },
-        {
-		"vids": [
-  
-		],
-		"name": "Bocadillo de Albondiga",
-		"author": "madeinpoland [Sydno]",
-		"id": "475",
-		"percentToQualify": 50,
-		"verificationVid": "https://youtu.be/qdCO6H9K-fI",
-		"key": 3
-	  },
-        {
+    {
 		"vids": [
 	
 		],
@@ -63,9 +41,9 @@ const d = {
 		"extra": "LDM: 6557, ULDM: 6558",
 		"percentToQualify": 85,
 		"verificationVid": "https://www.youtube.com/watch?v=WeOEjKGsKfw",
-		"key": 4
+		"key": 2
 	  },
-	  {
+    {
 		"vids": [
   
 		],
@@ -74,8 +52,30 @@ const d = {
 		"id": "1285",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=V0hQ_9mh6hA",
-		"key": 5
+		"key": 3
 	  }, 
+    {
+		"vids": [
+  
+		],
+		"name": "Bocadillo de Albondiga",
+		"author": "madeinpoland [Sydno]",
+		"id": "475",
+		"percentToQualify": 50,
+		"verificationVid": "https://youtu.be/qdCO6H9K-fI",
+		"key": 4
+	  },
+        {
+		"vids": [
+  
+		],
+		"name": "VSC",
+		"author": "Sydno",
+		"id": "6736",
+		"percentToQualify": 50,
+		"verificationVid": "https://youtu.be/ZOMSBfp_wtc",
+		"key": 5
+	  },
 	  {
 		"vids": [
   
@@ -118,18 +118,7 @@ const d = {
 		"verificationVid": "https://www.youtube.com/watch?v=Q3REJBC6J-U",
 		"key": 8
 	  }, 
-	  {
-		"vids": [
-		  
-		],
-		"name": "Pinnacle Precision",
-		"author": "Sydno",
-		"id": "1182",
-		"percentToQualify": 55,
-		"verificationVid": "https://www.youtube.com/watch?v=CuMXhtuQS-0",
-		"key": 9
-	  },
-	  {
+    {
 		"vids": [
       {
 			 "user": "Sydno",
@@ -142,6 +131,17 @@ const d = {
 		"id": "770",
 		"percentToQualify": 50,
 		"verificationVid": "https://www.youtube.com/watch?v=6FDH4wIZgPQ",
+		"key": 9
+	  },
+	  {
+		"vids": [
+		  
+		],
+		"name": "Pinnacle Precision",
+		"author": "Sydno",
+		"id": "1182",
+		"percentToQualify": 55,
+		"verificationVid": "https://www.youtube.com/watch?v=CuMXhtuQS-0",
 		"key": 10
 	  }, 
 	  {
