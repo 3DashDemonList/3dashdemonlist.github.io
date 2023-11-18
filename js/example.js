@@ -100,9 +100,13 @@ const d = {
       "key": 7
     }, {
       'vids': [
-
+{
+  'user': 'user',
+  'link': 'www.google.com',
+  'percent': 3824,
+  },
       ],
-      'name': 'cum',
+      'name': 'yea',
       'author': 'sombreras [ur mom]',
       'id': 69,
       'diff': 'Demon',

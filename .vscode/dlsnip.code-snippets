@@ -21,5 +21,23 @@
 			"\t'key': ,}"
 	 	],
 	 	"description": "Adds an empty level for verifications"
-	 }
+	 },
+	 "comp": {
+		"scope": "javascript,typescript",
+		"prefix": "comp",
+		"body": [
+		   "{"
+		   "\t'user': '',"
+		   "\t'link': '',"
+		   "\t'percent': ,"
+		   "\t},"
+		],
+		"description": "Adds an empty level for verifications"
+	}
 }
+// {
+//	"user": "Ayueshi",
+//	"link": "https://www.youtube.com/watch?v=Rax_9zHKikk",
+//	"percent": 2.52,
+//"hz": "60Hz"
+// },
