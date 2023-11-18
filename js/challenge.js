@@ -1109,7 +1109,12 @@ const d = {
 			"user": "ChaseLux",
 			"link": "https://www.youtube.com/watch?v=uXxW-3wqAos",
 			"percent": 100
-		  }
+		  },
+		  {
+			'user': 'Wiluck',
+			'link': 'https://www.youtube.com/watch?v=JVXVfg2dkU0',
+			'percent': 100,
+			},
 		],
 		"name": "Hype",
 		"author": "ShulkMode",

@@ -118,7 +118,15 @@ const d = {
       "verificationVid": "https://youtu.be/ZJxiEhLJGnA",
       "key": 8
     },
-    
+    {'vids': [
+      ],
+      'name': 'Painless Suffering',
+      'author': 'Domnesz',
+      'id': '4211',
+      'percentToQualify': 100,
+      'verificationVid': 'https://www.youtube.com/watch?v=sTmmvwNg1t0',
+      'key': 9,
+    },
     {
       "vids": [
       ],
@@ -127,7 +135,7 @@ const d = {
       "id": "3283",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Ft5LA-VAPOo",
-      "key": 9
+      "key": 10
     },
     {
       "vids": [
@@ -138,7 +146,7 @@ const d = {
       "id": "6903",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=ZukmOxm4sCE",
-      "key": 10
+      "key": 11
     },
     {
       "vids": [
@@ -195,6 +203,15 @@ const d = {
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/_ONyjNilEYw",
       "key": 12
+    },
+    {'vids': [
+      ],
+      'name': 'laughterhouse',
+      'author': 'Domnesz',
+      'id': '7827',
+      'percentToQualify': 100,
+      'verificationVid': 'https://www.youtube.com/watch?v=yZBN4yLFgq4',
+      'key': 14,
     },
     {
       "vids": [
@@ -1107,6 +1124,11 @@ const d = {
             "link": "https://youtu.be/zppn5SEqeZI?si=9Sqi0Cm55huAn5DC",
             "percent": 100
           }, 
+          {
+            'user': 'luki',
+            'link': 'https://youtu.be/iwiGROMo6Hc',
+            'percent': 100,
+            },
        ],
        "name": "The Long Walk Home",
        "author": "∆∆∆",
@@ -1206,6 +1228,11 @@ const d = {
             'link': 'https://youtu.be/zouiL5yzR8w',
             'percent': 100,
             },
+            {
+              'user': 'Wiluck',
+              'link': 'https://youtu.be/MJoVXswOASM?si=M_zEosM-aP7qKQCW',
+              'percent': 100,
+              },
       ],
       "name": "The Final Blade",
       "author": "maxo5 [Monstrosity]",
@@ -1306,6 +1333,12 @@ const d = {
           "link": "https://www.youtube.com/watch?v=h5mhlrBWRuo",
           "percent": 100
         }, 
+        {
+          'user': 'DemonisticSky',
+          'link': 'https://youtu.be/AFkV9KgLkCk?si=6j-8jOvZaVAzzdmf',
+          'percent': 100,
+          'hz': 'Mobile',
+          },
         
       ],
       "name": "Temple of Demons",

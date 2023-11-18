@@ -18,7 +18,8 @@
 			"\t'id': '',"
 			"\t'percentToQualify': ,"
 			"\t'verificationVid': '',"
-			"\t'key': ,}"
+			"\t'key': ,"
+			"\t},"
 	 	],
 	 	"description": "Adds an empty level for verifications"
 	 },
