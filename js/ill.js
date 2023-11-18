@@ -2,7 +2,11 @@ const d = {
 	"list": [
     {
 			"vids": [
-        
+        {
+          'user': 'DoministicSky',
+          'link': 'https://youtu.be/Xd8zJYfn1qs?si=fQSP6nArR51u-E_8',
+          'percent': 46.15,
+          },
 			],
 			"name": "µ",
       

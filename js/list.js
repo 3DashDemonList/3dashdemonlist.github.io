@@ -1196,6 +1196,16 @@ const d = {
           "link": "https://www.youtube.com/watch?v=QONa4cCIYes",
           "percent": 100
         },
+        {
+          'user': 'DominicSky',
+          'link': 'https://youtu.be/ufxs9DfzTFM?si=ev8AMataZOypkUxQ',
+          'percent': 100,
+          },
+          {
+            'user': 'luki',
+            'link': 'https://youtu.be/zouiL5yzR8w',
+            'percent': 100,
+            },
       ],
       "name": "The Final Blade",
       "author": "maxo5 [Monstrosity]",
@@ -1296,6 +1306,7 @@ const d = {
           "link": "https://www.youtube.com/watch?v=h5mhlrBWRuo",
           "percent": 100
         }, 
+        
       ],
       "name": "Temple of Demons",
       "author": "maxo5 [Monstrosity]",

@@ -30,16 +30,16 @@
   }
   #links{
     position: fixed;
-    top: 35px;
-    right: 230px;
+    top: 25px;
+    right: 2px;
     font-size: 1.3em;
-    width: auto;
+    width: 150px
   }
   #pc-link{
     position: fixed;
     text-align: right;
-    top: 35px;
-    right: 30px;
+    top: 5px;
+    right: 25px;
     font-size: 1.3em;
   }
   #list{
