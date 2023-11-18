@@ -1,20 +1,30 @@
-// same story here
 const d = {
   "list": [
 
     {
       "vids": [
-        {
-          "user": "jellythecoolestgurl",
-          "link": "https://youtu.be/fZqrtaBnISU",
-          "percent": -100
-        }
+        
       ],
       "name": "KOCMOC",
       "author": "MadeInPoland [sydno]",
       "id": "3147",
       "percentToQualify": 90,
       "verificationVid": "https://www.youtube.com/watch?v=h3E57gWxPis",
+      "key": -0
+    },
+    {
+      "vids": [
+        {
+          "user": "moronstrosity",
+          "link": "https://youtu.be/brMwUya5MJA",
+          "percent": 100
+        }
+      ],
+      "name": "extremness finale",
+      "author": "random 11yo kid [blyatmaybe]",
+      "id": "3652",
+      "percentToQualify": 11,
+      "verificationVid": "https://youtu.be/fHgxNp25o78",
       "key": 0
     },
     {
@@ -215,6 +225,16 @@ const d = {
     },
     {
       "vids": [
+      ],
+      "name": "Memory Mastermind",
+      "author": "Domesz",
+      "id": "7327",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=kEN4OQrRz8s",
+      "key": 14
+    },
+    {
+      "vids": [
         {
           "user": "Mogaboss",
           "link": "https://www.youtube.com/watch?v=OWTX4vFAiRc",
@@ -226,7 +246,7 @@ const d = {
       "id": "4688",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=CV43GRwz9Xo",
-      "key": 14
+      "key": 15
     },
     {
       "vids": [
@@ -256,7 +276,7 @@ const d = {
       "id": "5818",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/ptPDz9pWDsw",
-      "key": 15
+      "key": 16
     },
     {
 		"vids": [
@@ -267,7 +287,7 @@ const d = {
 		"id": "6964",
 		"percentToQualify": 100,
 		"verificationVid": "https://www.youtube.com/watch?v=hoCkoiB94G4",
-		"key": 16
+		"key": 17
 	  },
     {
       "vids": [
@@ -278,7 +298,7 @@ const d = {
       "id": "6997",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=4hljJjZ9LFM",
-      "key": 17
+      "key": 18
     },
     {
       "vids": [
@@ -304,7 +324,7 @@ const d = {
       "id": "Main Level",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/OyURGpOx7Do?t=447",
-      "key": 18
+      "key": 19
     },
     {
       "vids": [
@@ -324,7 +344,7 @@ const d = {
       "id": "5317",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=ajN3JIz0g_Y",
-      "key": 19
+      "key": 20
     },
     {
       "vids": [
@@ -349,7 +369,7 @@ const d = {
       "id": "Main Level",
       "percentToQualify": 100,
       "verificationVid": "",
-      "key": 20
+      "key": 21
     },
     {
       "vids": [
@@ -375,7 +395,7 @@ const d = {
       "id": "5127",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/z6axDCYUdzc",
-      "key": 21
+      "key": 22
     }, 
     {
       "vids": [
@@ -410,7 +430,7 @@ const d = {
       "id": "3 (WoW)",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/nNnkL9CPBds",
-      "key": 22
+      "key": 23
     },  
     {
       "vids": [
@@ -430,7 +450,7 @@ const d = {
       "id": "5128",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/jMkUtiWwDQ8",
-      "key": 23
+      "key": 24
     }, {
       "vids": [
         {
@@ -444,7 +464,7 @@ const d = {
       "id": "1348",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/PFZY1_Zuumw",
-      "key": 24
+      "key": 25
     }, {
       "vids": [
         {
@@ -468,7 +488,7 @@ const d = {
       "id": "3755",
       "percentToQualify": 80,
       "verificationVid": "https://www.youtube.com/watch?v=4tBLjTmnm2A",
-      "key": 25
+      "key": 26
     }, {
       "vids": [
         {
@@ -507,7 +527,7 @@ const d = {
       "id": "3510",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/B5MNwvEMdag",
-      "key": 26
+      "key": 27
     },
     {
       "vids": [
@@ -532,7 +552,7 @@ const d = {
       "id": "5129",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=IP3DpKoU8QU",
-      "key": 27
+      "key": 28
     }, 
     {
 			"vids": [
@@ -550,7 +570,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 100,
                     "verificationVid": "https://youtu.be/wqyfQywm_B0",
-                    "key": 28
+                    "key": 29
 			},{
       "vids": [
         {
@@ -569,7 +589,7 @@ const d = {
       "id": "3607",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4QVNtcaEeT0",
-      "key": 29
+      "key": 30
     }, {
       "vids": [
         {
@@ -583,7 +603,7 @@ const d = {
       "id": "5130",
       "percentToQualify": 75,
       "verificationVid": "https://youtu.be/sE8yXUJ_JNc",
-      "key": 30
+      "key": 31
     }, 
     {
       "vids": [
@@ -598,7 +618,7 @@ const d = {
       "id": "6622",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=g9rRYmYzor8",
-      "key": 31
+      "key": 32
     }, {
       "vids": [
         {
@@ -612,7 +632,7 @@ const d = {
       "id": "5132",
       "percentToQualify": 90,
       "verificationVid": "https://youtu.be/P8OJlJXaakg",
-      "key": 32
+      "key": 33
     }, {
       "vids": [
         {
@@ -642,7 +662,7 @@ const d = {
       "percentToQualify": 100,
       "verificationVid": "",
       "extra": "https://drive.google.com/drive/folders/1rDFawlkILy2JJwXx-9j5wWWRmo-emZK-",
-      "key": 33
+      "key": 34
     }, 
     {
       "vids": [
@@ -653,7 +673,7 @@ const d = {
       "id": "4444",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/9azBEBac35o",
-      "key": 34
+      "key": 35
     },
     {
       "vids": [
@@ -664,7 +684,7 @@ const d = {
       "id": "5791",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/7DX7H5nkVcM",
-      "key": 35
+      "key": 36
     },
     {
       "vids": [
@@ -675,7 +695,7 @@ const d = {
       "id": "6808",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/NfcDs5PcN0k",
-      "key": 36
+      "key": 37
     },
     {
 		"vids": [
@@ -684,13 +704,18 @@ const d = {
           "link": "https://youtu.be/U_Z3UNPzkRA",
           "percent": 100
         },
+      {
+        "user": "Sombreras",
+        "link": "https://youtu.be/0aH5cC3y42E?si=JjNeeUYMHw4W6obY",
+        "percent": 100
+      }, 
 		],
 		"name": "Skittles",
 		"author": "Finrex01",
 		"id": "6817",
 		"percentToQualify": 100,
 		"verificationVid": "https://youtu.be/pypC2W5F7Mk",
-		"key": 37
+		"key": 38
 	  }, 
     {
       "vids": [
@@ -715,7 +740,7 @@ const d = {
       "id": "6302",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=gYuiJlZz_mA",
-      "key": 38
+      "key": 39
     },
     {
       "vids": [
@@ -730,6 +755,11 @@ const d = {
           "percent": 100
         },
         {
+          "user": "Userti",
+          "link": "https://www.youtube.com/watch?v=D6hwCVwp8EI",
+          "percent": 100
+        },
+        {
           "user": "Mr.Pandequeso",
           "link": "https://www.youtube.com/watch?v=7L-0CsOGfok",
           "percent": 100
@@ -740,7 +770,7 @@ const d = {
       "id": "2330",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/LKFuptMOgTc?t=240",
-      "key": 39
+      "key": 40
     },
     {
       "vids": [
@@ -770,7 +800,7 @@ const d = {
       "id": "3271",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/xtIgqMMq_ro",
-      "key": 40
+      "key": 41
     }, {
       "vids": [
         {
@@ -784,8 +814,8 @@ const d = {
       "id": "3841",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/v7rWaUBBZJk",
-      "key": 41
-    }, 
+      "key": 42
+    },
     {
       "vids": [
         {
@@ -799,7 +829,7 @@ const d = {
       "id": "5900",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/pQoUwwL_l-E",
-      "key": 42
+      "key": 43
     },
     {
       "vids": [
@@ -819,7 +849,7 @@ const d = {
       "id": "5163",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/U_8KSb1KFa0",
-      "key": 43
+      "key": 44
     }, {
       "vids": [
         {
@@ -838,27 +868,27 @@ const d = {
       "id": "3229",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4S3Ip48OV3U",
-      "key": 44
-    }, 
-    {
+      "key": 45
+    },  
+     {
       "vids": [
         {
-          "user": "boro",
-          "link": "https://youtu.be/CqSTDvnNz10?t=301",
+          "user": "∆∆∆",
+          "link": "https://www.youtube.com/watch?v=9DrgCeEJKMg",
           "percent": 100
         }, 
-        {
+          {
           "user": "Monstrosity",
-          "link": "https://www.youtube.com/watch?v=1dDC2Ti3Pc8",
+          "link": "https://www.youtube.com/watch?v=3KapqZbWB08",
           "percent": 100
-        }, 
+        },
       ],
-      "name": "The Long Walk Home",
-      "author": "∆∆∆",
-      "id": "7425",
+      "name": "looyC",
+      "author": "Cyool",
+      "id": "7179",
       "percentToQualify": 100,
-      "verificationVid": "https://youtu.be/3smxxmj3W8k",
-      "key": 45
+      "verificationVid": "https://www.youtube.com/watch?v=iusv9qHc6Bs",
+      "key": 46
     },
     {
       "vids": [
@@ -876,15 +906,21 @@ const d = {
 					"user": "Jellythecoolestguy",
 					"link": "https://youtu.be/Te5QKTCJcvM",
 					"percent": 100
-				}
+				},
+        {
+          "user": "woeq",
+          "link": "https://youtu.be/WcP5SW5ZYHM?si=5WDz0cv3H-kdKVEu",
+          "percent": 100
+        },
       ],
       "name": "Diamond Blade thing",
       "author": "sydno",
       "id": "317",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/0Egcd_WcnJI",
-      "key": 46
-    }, {
+      "key": 47
+    },
+  {
       "vids": [
         {
           "user": "Bit",
@@ -942,8 +978,20 @@ const d = {
       "id": "176",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Mlq2lXM657I",
-      "key": 47
-    }, {
+      "key": 48
+          },
+    {
+      "vids": [
+        
+      ],
+      "name": "Temple Of Demons 2",
+      "author": "∆∆∆",
+      "id": "7270",
+      "percentToQualify": 100,
+      "verificationVid": "https://youtu.be/Ia_ey0HwQQQ",
+      "key": 49
+    },
+    {
       "vids": [
         {
 					"user": "Farlayy",
@@ -1056,28 +1104,33 @@ const d = {
       "id": "5133",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/boBQUDtTBOo",
-      "key": 48
+      "key": 50
     },
-          {
-      "vids": [
-        {
-          "user": "∆∆∆",
-          "link": "https://www.youtube.com/watch?v=9DrgCeEJKMg",
-          "percent": 100
-        }, 
-          {
-          "user": "Monstrosity",
-          "link": "https://www.youtube.com/watch?v=3KapqZbWB08",
-          "percent": 100
-        },
-      ],
-      "name": "looyC",
-      "author": "Cyool",
-      "id": "7179",
-      "percentToQualify": 100,
-      "verificationVid": "https://www.youtube.com/watch?v=iusv9qHc6Bs",
-      "key": 49
-    },
+     {
+       "vids": [
+         {
+           "user": "boro",
+           "link": "https://youtu.be/CqSTDvnNz10?t=301",
+           "percent": 100
+         }, 
+         {
+           "user": "Monstrosity",
+           "link": "https://www.youtube.com/watch?v=1dDC2Ti3Pc8",
+           "percent": 100
+         }, 
+         {
+            "user": "Sombreras",
+            "link": "https://youtu.be/zppn5SEqeZI?si=9Sqi0Cm55huAn5DC",
+            "percent": 100
+          }, 
+       ],
+       "name": "The Long Walk Home",
+       "author": "∆∆∆",
+       "id": "7425",
+       "percentToQualify": 100,
+       "verificationVid": "https://youtu.be/3smxxmj3W8k",
+       "key": 51
+     },
     {
       "vids": [
         {
@@ -1154,6 +1207,10 @@ const d = {
           "user": "zemljotres",
           "link": "https://youtu.be/hTmiAjLuQL8",
           "percent": 100
+        }, {
+          "user": "Userti",
+          "link": "https://www.youtube.com/watch?v=QONa4cCIYes",
+          "percent": 100
         },
       ],
       "name": "The Final Blade",
@@ -1161,7 +1218,7 @@ const d = {
       "id": "58",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=hi1zAE6ozQ8",
-      "key": 50
+      "key": 52
     },
     {
       "vids": [
@@ -1261,14 +1318,14 @@ const d = {
       "id": "83",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=kJt0-nk1A5o",
-      "key": 51
+      "key": 53
     }
     /*=================================================================================*/
-  ],
+],
   "version": [
-    1,
+    2,
     0,
-    2
+        0
   ]
 };
 

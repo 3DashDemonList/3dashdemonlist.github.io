@@ -743,11 +743,11 @@ const d = {
     {
 		"vids": [
 		],
-		"name": "VSC++",
-		"author": "boro [sydno]",
-		"id": "6724",
+		"name": "Tight Straightfly No Lag",
+		"author": "Monstrosity",
+		"id": "7322",
 		"percentToQualify": 100,
-		"verificationVid": "https://cdn.discordapp.com/attachments/1045315506560847872/1136996971035508867/echkere.mp4",
+		"verificationVid": "https://youtu.be/BaUuHSw3rFw?si=KvxxuobC7mnpOKUB",
 		"key": 56
 	  }, 
 	  {
@@ -1142,7 +1142,7 @@ const d = {
     /*=================================================================================*/
   ],
   "version": [
-    1,
+    2,
     0,
     0
   ]

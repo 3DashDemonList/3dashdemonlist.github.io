@@ -251,7 +251,7 @@
     var l = getParameterByName('q', window.location.href) * 1 - 1;
     var list_node = $("#list");
     var record_node = $("#records-table")
-    var legacy_count = 0;
+    var legacy_count = 5;
     for (var i = 0; i < list.length; i++) {
         var entry = list[i];
         if (entry.key == null) {
@@ -260,7 +260,7 @@
     }
     $("#version-node").text("(v" + version[0] + "." + version[1] + "." + version[2] + ")");
     list.sort(function(a, b) {
-        var legacy_count = 0;
+        var legacy_count = 5;
         for (var i = 0; i < list.length; i++) {
             var entry = list[i];
             if (entry.key == null) {
@@ -270,12 +270,12 @@
         var arank = 0;
         var brank = 0;
         if (a.key == null) {
-            arank = 50 + (legacy_count - a.legacyKey);
+            arank = 5 + (legacy_count - a.legacyKey);
         } else {
             arank = (a.key) + 1;
         }
         if (b.key == null) {
-            brank = 50 + (legacy_count - b.legacyKey);
+            brank = 5 + (legacy_count - b.legacyKey);
         } else {
             brank = (b.key) + 1;
         }
@@ -310,7 +310,7 @@
             }
             var rank = 0;
             if (entry.key == null) {
-                rank = 50 + (legacy_count - entry.legacyKey);
+                rank = 5 + (legacy_count - entry.legacyKey);
             } else {
                 rank = (entry.key) + 1;
             }

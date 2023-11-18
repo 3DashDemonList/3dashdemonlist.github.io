@@ -1,4 +1,3 @@
-// i hate how replit decided that these arent modified anymore so i have to type here now
 const d = {
 	"list": [
     {
@@ -249,6 +248,19 @@ const d = {
                     "extra": "Max percentage is: 554"
 			},
     {
+      "vids": [
+        
+      ],
+      "name": "Roaring Space",
+      "author": "Fowo",
+      "id": 8495,
+      "diff": "Demon",
+      "percentToQualify": 0,
+      "verificationVid": "https://www.youtube.com/watch?v=2eS_4cXqf2E",
+      "key": 9,
+      "extra": "Level is currently (breaking the site a little) being verfied"
+    },
+    {
 			"vids": [
         {
 					"user": "ChaseLux",
@@ -283,13 +295,24 @@ const d = {
       "verificationVid": "https://www.youtube.com/watch?v=VnyTN98nOS8",
       "key": 9,
       "extra": "Max percentage is: 194"
-			}
+    },
+    {
+      "vids": [
+      ],
+      "name": "Meat",
+      "author": "Monstrosity",
+      "id": 7377,
+      "diff": "Demon",
+      "percentToQualify": 0,
+      "verificationVid": "https://youtu.be/viKARFccw2E?si=1XcUay13a_gdoXpu",
+      "key": 10
+    }
 		/*=================================================================================*/
-	],
+    ],
 	"version": [
+		2,
 		1,
-		0,
-        0
+        1
 	]
 };
 

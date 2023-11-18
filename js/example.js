@@ -99,16 +99,16 @@ const d = {
       "verificationVid": "https://www.youtube.com/watch?v=7ygEfzr6a9k",
       "key": 7
     }, {
-      "vids": [
+      'vids': [
 
       ],
-      "name": "cum",
-      "author": "sombreras [ur mom]",
-      "id": 69,
-      "diff": "Demon",
-      "percentToQualify": 0,
-      "verificationVid": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "key": 8
+      'name': 'cum',
+      'author': 'sombreras [ur mom]',
+      'id': 69,
+      'diff': 'Demon',
+      'percentToQualify': 0,
+      'verificationVid': 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      'key': 8
     }, 
     /*=================================================================================*/
   ],

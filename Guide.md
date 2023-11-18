@@ -197,7 +197,7 @@ Just simply click the "Run" button on the Repl. And you should see on the consol
 
 # Notes
 
-This guide was created by **~~Mr.Scatman7~~ ME GRUWEL** on **2021/01/17**.
+This guide was created by ME GRUWEL on **2021/01/17**.
 
 
 Hope this helps!
