@@ -2,10 +2,10 @@ const d = {
   "list": [
     
     {"vids": [
-        
+
       ],
       "name": "KOCMOC",
-      "author": "MadeInPoland [Somboros] [sydo]",
+      "author": "MadeInPoland [sydno]",
       "id": "3147",
       "percentToQualify": 90,
       "verificationVid": "https://www.youtube.com/watch?v=h3E57gWxPis",
@@ -49,13 +49,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=VCky4Gjnufg",
 					"percent": 100,
 				},
+        {
+          "user": "Valts",
+          "link": "https://www.youtube.com/watch?v=3GglyWTxcX4",
+          "percent": 100
+        }
       ],
       "name": "Ashley 3D Trials",
-      "author": "fcsAlex7 [Valts]",
+      "author": "fcsAlex7",
       "id": "5904",
       "extra": "LDM ID: 5910",
       "percentToQualify": 100,
-      "verificationVid": "https://youtu.be/3GglyWTxcX4",
+      "verificationVid": "https://www.youtube.com/watch?v=1z_iB5G0Cro",
       "key": 3
     },
     {
@@ -120,22 +125,34 @@ const d = {
     },
     {'vids': [
       ],
-      'name': 'Painless Suffering',
-      'author': 'Domnesz',
-      'id': '4211',
-      'percentToQualify': 100,
-      'verificationVid': 'https://www.youtube.com/watch?v=sTmmvwNg1t0',
-      'key': 9,
+      "name": "Painless Suffering",
+      "author": "Domesz",
+      "id": "4211",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=sTmmvwNg1t0",
+      "key": 9,
     },
     {
       "vids": [
+        
+      ],
+      "name": "no jokes",
+      "author": "HydroPixels",
+      "id": "9588",
+      "percentToQualify": 100,
+      "verificationVid": "https://www.youtube.com/watch?v=99_wzT3ilsE",
+      "key": 10,
+       },
+      {   
+      "vids": [
+    
       ],
       "name": "Slaughterhouse 2023 real",
       "author": "Sydno",
       "id": "3283",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Ft5LA-VAPOo",
-      "key": 10
+      "key": 11,
     },
     {
       "vids": [
@@ -146,7 +163,7 @@ const d = {
       "id": "6903",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=ZukmOxm4sCE",
-      "key": 11
+      "key": 12,
     },
     {
       "vids": [
@@ -185,13 +202,18 @@ const d = {
           "link": "https://www.youtube.com/watch?v=yO9RJPs1A58",
           "percent": 100
         },
+        {
+          "user": "fcsAlex7",
+          "link": "https://www.youtube.com/watch?v=aj9xWWzt0CA",
+          "percent": 100
+        }
       ],
       "name": "The Rock House",
       "author": "Zippiks",
       "id": "4725",
       "percentToQualify": 100,
-      "verificationVid": "https://www.youtube.com/watch?v=K04wUybT_iw",
-      "key": 11
+      "verificationVid": "https://www.youtube.com/watch?v=K04wUybT_iw&t=6s",
+      "key": 13,
     },
           {
       "vids": [
@@ -202,16 +224,16 @@ const d = {
       "id": "34",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/_ONyjNilEYw",
-      "key": 12
+      "key": 14
     },
     {'vids': [
       ],
       'name': 'laughterhouse',
-      'author': 'Domnesz',
+      'author': 'Domesz',
       'id': '7827',
       'percentToQualify': 100,
       'verificationVid': 'https://www.youtube.com/watch?v=yZBN4yLFgq4',
-      'key': 14,
+      'key': 15,
     },
     {
       "vids": [
@@ -222,7 +244,7 @@ const d = {
       "id": "5126",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/H1SQ0SRBP0s",
-      "key": 13
+      "key": 16,
     },
     {
       "vids": [
@@ -232,7 +254,7 @@ const d = {
       "id": "7327",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=kEN4OQrRz8s",
-      "key": 14
+      "key": 17,
     },
     {
       "vids": [
@@ -247,7 +269,7 @@ const d = {
       "id": "4688",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=CV43GRwz9Xo",
-      "key": 15
+      "key": 18,
     },
     {
       "vids": [
@@ -277,7 +299,7 @@ const d = {
       "id": "5818",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/ptPDz9pWDsw",
-      "key": 16
+      "key": 19,
     },
     {
 		"vids": [
@@ -288,7 +310,7 @@ const d = {
 		"id": "6964",
 		"percentToQualify": 100,
 		"verificationVid": "https://www.youtube.com/watch?v=hoCkoiB94G4",
-		"key": 17
+		"key": 20,
 	  },
     {
       "vids": [
@@ -299,7 +321,7 @@ const d = {
       "id": "6997",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=4hljJjZ9LFM",
-      "key": 18
+      "key": 21
     },
     {
       "vids": [
@@ -325,7 +347,7 @@ const d = {
       "id": "Main Level",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/OyURGpOx7Do?t=447",
-      "key": 19
+      "key": 22,
     },
     {
       "vids": [
@@ -339,13 +361,19 @@ const d = {
           "link": "https://youtu.be/zM5lfgbqJ_k",
           "percent": 100
         },
+        {
+          "user": "TuSol",
+          "link": "https://youtu.be/X1JuympuWdU",
+          "percent": 100,
+        }
+           
       ],
       "name": "S44",
       "author": "AliMicro [sydno]",
       "id": "5317",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=ajN3JIz0g_Y",
-      "key": 20
+      "key": 23,
     },
     {
       "vids": [
@@ -370,7 +398,7 @@ const d = {
       "id": "Main Level",
       "percentToQualify": 100,
       "verificationVid": "",
-      "key": 21
+      "key": 24,
     },
     {
       "vids": [
@@ -388,7 +416,12 @@ const d = {
           "user": "Mogaboss",
           "link": "https://www.youtube.com/watch?v=G7icHiJ6eL0",
           "percent": 100
-        }
+        },
+        {
+          "user": "fcsAlex7",
+          "link": "https://www.youtube.com/watch?v=163xZDl53sE",
+          "percent": 100
+        },
         
       ],
       "name": "Extreme",
@@ -396,7 +429,7 @@ const d = {
       "id": "5127",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/z6axDCYUdzc",
-      "key": 22
+      "key": 25,
     }, 
     {
       "vids": [
@@ -431,7 +464,7 @@ const d = {
       "id": "3 (WoW)",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/nNnkL9CPBds",
-      "key": 23
+      "key": 26,
     },  
     {
       "vids": [
@@ -451,7 +484,7 @@ const d = {
       "id": "5128",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/jMkUtiWwDQ8",
-      "key": 24
+      "key": 27
     }, {
       "vids": [
         {
@@ -465,7 +498,7 @@ const d = {
       "id": "1348",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/PFZY1_Zuumw",
-      "key": 25
+      "key": 28
     }, {
       "vids": [
         {
@@ -483,13 +516,18 @@ const d = {
           "link": "https://www.youtube.com/watch?v=c_0gD65Iz_Y",
           "percent": 100
         },
+         {
+           "user": "fcsAlex7",
+           "link": "https://www.youtube.com/watch?v=o_X9h2hX8bM",
+           "percent": 100
+         }
       ],
       "name": "Extremeness",
       "author": "boro [Mr.Pandequeso]",
       "id": "3755",
       "percentToQualify": 80,
       "verificationVid": "https://www.youtube.com/watch?v=4tBLjTmnm2A",
-      "key": 26
+      "key": 29
     }, {
       "vids": [
         {
@@ -528,7 +566,7 @@ const d = {
       "id": "3510",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/B5MNwvEMdag",
-      "key": 27
+      "key": 30
     },
     {
       "vids": [
@@ -553,7 +591,7 @@ const d = {
       "id": "5129",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=IP3DpKoU8QU",
-      "key": 28
+      "key": 31
     }, 
     {
 			"vids": [
@@ -571,7 +609,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 100,
                     "verificationVid": "https://youtu.be/wqyfQywm_B0",
-                    "key": 29
+                    "key": 32
 			},{
       "vids": [
         {
@@ -604,7 +642,7 @@ const d = {
       "id": "5130",
       "percentToQualify": 75,
       "verificationVid": "https://youtu.be/sE8yXUJ_JNc",
-      "key": 31
+      "key": 33
     }, 
     {
       "vids": [
@@ -619,7 +657,7 @@ const d = {
       "id": "6622",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=g9rRYmYzor8",
-      "key": 32
+      "key": 34
     }, {
       "vids": [
         {
@@ -633,7 +671,7 @@ const d = {
       "id": "5132",
       "percentToQualify": 90,
       "verificationVid": "https://youtu.be/P8OJlJXaakg",
-      "key": 33
+      "key": 35
     }, {
       "vids": [
         {
@@ -663,7 +701,7 @@ const d = {
       "percentToQualify": 100,
       "verificationVid": "",
       "extra": "https://drive.google.com/drive/folders/1rDFawlkILy2JJwXx-9j5wWWRmo-emZK-",
-      "key": 34
+      "key": 36
     }, 
     {
       "vids": [
@@ -674,7 +712,7 @@ const d = {
       "id": "4444",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/9azBEBac35o",
-      "key": 35
+      "key": 37
     },
     {
       "vids": [
@@ -685,7 +723,7 @@ const d = {
       "id": "5791",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/7DX7H5nkVcM",
-      "key": 36
+      "key": 38
     },
     {
       "vids": [
@@ -696,7 +734,7 @@ const d = {
       "id": "6808",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/NfcDs5PcN0k",
-      "key": 37
+      "key": 39
     },
     {
 		"vids": [
@@ -716,7 +754,7 @@ const d = {
 		"id": "6817",
 		"percentToQualify": 100,
 		"verificationVid": "https://youtu.be/pypC2W5F7Mk",
-		"key": 38
+		"key": 40
 	  }, 
     {
       "vids": [
@@ -741,7 +779,7 @@ const d = {
       "id": "6302",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=gYuiJlZz_mA",
-      "key": 39
+      "key": 41
     },
     {
       "vids": [
@@ -765,13 +803,23 @@ const d = {
           "link": "https://www.youtube.com/watch?v=7L-0CsOGfok",
           "percent": 100
         },
+        {
+          "user": "Monstrosity",
+          "link": "https://www.youtube.com/watch?v=VtI7MZYc_uc",
+          "percent": 100
+        },
+        {
+          "user": "Myst",
+          "link": "https://www.youtube.com/watch?v=2s_OftvCtNk&t=11s",
+          "percent": 100
+        },
       ],
       "name": "Prismism",
       "author": "Positivity [Sombreras]",
       "id": "2330",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/LKFuptMOgTc?t=240",
-      "key": 40
+      "key": 42
     },
     {
       "vids": [
@@ -801,12 +849,17 @@ const d = {
       "id": "3271",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/xtIgqMMq_ro",
-      "key": 41
+      "key": 43
     }, {
       "vids": [
         {
           "user": "Valts",
           "link": "https://youtu.be/h726sQTvm2c",
+          "percent": 100
+        },
+        {
+          "user": "fcsAlex7",
+          "link": "https://www.youtube.com/watch?v=t0O_NqNvtuY",
           "percent": 100
         }
       ],
@@ -815,7 +868,7 @@ const d = {
       "id": "3841",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/v7rWaUBBZJk",
-      "key": 42
+      "key": 44
     },
     {
       "vids": [
@@ -830,7 +883,7 @@ const d = {
       "id": "5900",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/pQoUwwL_l-E",
-      "key": 43
+      "key": 45
     },
     {
       "vids": [
@@ -850,7 +903,7 @@ const d = {
       "id": "5163",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/U_8KSb1KFa0",
-      "key": 44
+      "key": 46
     }, {
       "vids": [
         {
@@ -869,7 +922,7 @@ const d = {
       "id": "3229",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4S3Ip48OV3U",
-      "key": 45
+      "key": 47
     },  
      {
       "vids": [
@@ -889,7 +942,7 @@ const d = {
       "id": "7179",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=iusv9qHc6Bs",
-      "key": 46
+      "key": 48
     },
     {
       "vids": [
@@ -919,7 +972,7 @@ const d = {
       "id": "317",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/0Egcd_WcnJI",
-      "key": 47
+      "key": 49
     },
   {
       "vids": [
@@ -979,7 +1032,7 @@ const d = {
       "id": "176",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Mlq2lXM657I",
-      "key": 48
+      "key": 50
           },
     {
       "vids": [
@@ -990,7 +1043,7 @@ const d = {
       "id": "7270",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Ia_ey0HwQQQ",
-      "key": 49
+      "key": 51
     },
     {
       "vids": [
@@ -1105,7 +1158,7 @@ const d = {
       "id": "5133",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/boBQUDtTBOo",
-      "key": 50
+      "key": 52
     },
      {
        "vids": [
@@ -1135,7 +1188,7 @@ const d = {
        "id": "7425",
        "percentToQualify": 100,
        "verificationVid": "https://youtu.be/3smxxmj3W8k",
-       "key": 51
+       "key": 53
      },
     {
       "vids": [
@@ -1239,7 +1292,7 @@ const d = {
       "id": "58",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=hi1zAE6ozQ8",
-      "key": 52
+      "key": 54
     },
     {
       "vids": [
@@ -1346,7 +1399,7 @@ const d = {
       "id": "83",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=kJt0-nk1A5o",
-      "key": 53
+      "key": 55
     },
     /*=================================================================================*/
 ],
