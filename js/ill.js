@@ -1,14 +1,15 @@
 const d = {
   "list": [
-     {
-      "name": "Death's Dance",
-      "author": "Monstrosity",
-      "id": 9476,
-      "percentToQualify": 0,
-      "verificationVid": "https://www.youtube.com/watch?v=aTgdPSfAKhA",
-      "key": 0,
-    "extra": "Max percentage is 466",
-       },
+    {'vids': [
+      ],
+      'name': 'Deaths Dance',
+      'author': 'Monstrosity',
+      'id': '9476',
+      'percentToQualify': 0,
+      'verificationVid': 'https://www.youtube.com/watch?v=aTgdPSfAKhA',
+      'key': 0,
+      "extra": "Max percentage is 466",
+      }, 
     {
 			"vids": [
         {
