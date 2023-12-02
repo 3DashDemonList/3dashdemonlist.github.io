@@ -7,7 +7,7 @@ const d = {
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=aTgdPSfAKhA",
       "key": 0,
-    "extra": "Max percentage is ??",
+    "extra": "Max percentage is 466",
        },
     {
 			"vids": [
