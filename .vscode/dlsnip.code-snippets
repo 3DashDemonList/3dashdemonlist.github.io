@@ -13,12 +13,12 @@
 	 	"body": [
 			"{'vids': ["
 			"\t],"
-			"\t'name': '',"
-			"\t'author': '',"
-			"\t'id': '',"
-			"\t'percentToQualify': ,"
-			"\t'verificationVid': '',"
-			"\t'key': ,"
+			"\t'name': '$1',"
+			"\t'author': '$2',"
+			"\t'id': '$3',"
+			"\t'percentToQualify': $4,"
+			"\t'verificationVid': '$5',"
+			"\t'key': $6,"
 			"\t},"
 	 	],
 	 	"description": "Adds an empty level for verifications"
@@ -28,9 +28,9 @@
 		"prefix": "comp",
 		"body": [
 		   "{"
-		   "\t'user': '',"
-		   "\t'link': '',"
-		   "\t'percent': ,"
+		   "\t'user': '$1',"
+		   "\t'link': '$2',"
+		   "\t'percent': $3,"
 		   "\t},"
 		],
 		"description": "Adds an empty level for verifications"
