@@ -1,5 +1,14 @@
 const d = {
-	"list": [
+  "list": [
+     {
+      "name": "Death's Dance",
+      "author": "Monstrosity",
+      "id": 9476,
+      "percentToQualify": 0,
+      "verificationVid": "https://www.youtube.com/watch?v=aTgdPSfAKhA",
+      "key": 0,
+    "extra": "Max percentage is ??",
+       },
     {
 			"vids": [
         {
@@ -15,7 +24,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=fobkO-2zNAQ",
-                    "key": 0,
+                    "key": 1,
                     "extra": "Max percentage is: 39"
 			},
     {
@@ -46,7 +55,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=SKdeugh8Npo",
-                    "key": 1,
+                    "key": 2,
                     "extra": "Max percentage is: 356"
 			},	
     {
@@ -69,7 +78,7 @@ const d = {
       "id": 6246,
       "percentToQualify": 0,
       "verificationVid": "https://youtu.be/wrzwdim4P2g",
-      "key": 2,
+      "key": 3,
       "extra": "Max percentage is: 439"
     },
       {
@@ -118,7 +127,7 @@ const d = {
       "diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=0fZ3lk2hYR4",
-      "key": 3,
+      "key": 4,
       "extra": "Max percentage is: 600"
       },  {
 			"vids": [
@@ -159,7 +168,7 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 2,
       "verificationVid": "https://youtu.be/hMDt_W_QSx4",
-      "key": 4,
+      "key": 5,
       "extra": "Max percentage is: 395"
 			},
     {
@@ -173,7 +182,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=gzfunAbDs10",
-                    "key": 5,
+                    "key": 6,
                     "extra": "Max percentage is: 602"
 			},
     {
@@ -187,7 +196,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=lQ9vqC__4uo",
-                    "key": 6,
+                    "key": 7,
                     "extra": "Max percentage is: 600"
 			},
     {
@@ -217,7 +226,7 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=8tQCPhFj1ac",
-      "key": 7,
+      "key": 8,
       "extra": "Max percentage is: 107"
 			},
       {
@@ -248,7 +257,7 @@ const d = {
 					          "diff": "Demon",
                     "percentToQualify": 0,
                     "verificationVid": "https://www.youtube.com/watch?v=1CYP_nnGZl8",
-                    "key": 8,
+                    "key": 9,
                     "extra": "Max percentage is: 554"
 			},
     {
@@ -261,7 +270,7 @@ const d = {
       "diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=2eS_4cXqf2E",
-      "key": 9,
+      "key": 10,
       "extra": "Level is currently (breaking the site a little) being verfied"
     },
     {
@@ -297,7 +306,7 @@ const d = {
 			"diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://www.youtube.com/watch?v=VnyTN98nOS8",
-      "key": 9,
+      "key": 11,
       "extra": "Max percentage is: 194"
     },
     {
@@ -309,9 +318,10 @@ const d = {
       "diff": "Demon",
       "percentToQualify": 0,
       "verificationVid": "https://youtu.be/viKARFccw2E?si=1XcUay13a_gdoXpu",
-      "key": 10
+      "key": 12
     }
-		/*=================================================================================*/
+	
+          /*=================================================================================*/
     ],
 	"version": [
 		2,
