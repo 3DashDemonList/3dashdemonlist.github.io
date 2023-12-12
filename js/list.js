@@ -126,7 +126,7 @@ const d = {
     {'vids': [
       ],
       "name": "Painless Suffering",
-      "author": "Domesz",
+      "author": "MadeInPoland [Domesz]",
       "id": "4211",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=sTmmvwNg1t0",
@@ -228,8 +228,8 @@ const d = {
     },
     {'vids': [
       ],
-      'name': 'laughterhouse',
-      'author': 'Domesz',
+      'name': 'Laughterhouse',
+      'author': 'Zippiks [Domesz]',
       'id': '7827',
       'percentToQualify': 100,
       'verificationVid': 'https://www.youtube.com/watch?v=yZBN4yLFgq4',
