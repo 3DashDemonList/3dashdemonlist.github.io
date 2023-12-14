@@ -422,6 +422,11 @@ const d = {
           "link": "https://www.youtube.com/watch?v=163xZDl53sE",
           "percent": 100
         },
+        {
+          'user': 'zemljotres',
+          'link': 'https://youtu.be/HuvyEjmLr8A?si=oUqrRF3F7B73aDf',
+          'percent': 100,
+          },
         
       ],
       "name": "Extreme",
@@ -1286,6 +1291,11 @@ const d = {
               'link': 'https://youtu.be/MJoVXswOASM?si=M_zEosM-aP7qKQCW',
               'percent': 100,
               },
+              {
+                'user': 'mqthisL',
+                'link': 'https://www.youtube.com/watch?v=NxWzr9efqxs',
+                'percent': 100,
+                },
       ],
       "name": "The Final Blade",
       "author": "maxo5 [Monstrosity]",
@@ -1392,6 +1402,11 @@ const d = {
           'percent': 100,
           'hz': 'Mobile',
           },
+          {
+            'user': 'mqthisL',
+            'link': 'https://www.youtube.com/watch?v=GfuvfJRXAEY',
+            'percent': 100,
+            },
         
       ],
       "name": "Temple of Demons",
