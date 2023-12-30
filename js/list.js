@@ -227,6 +227,12 @@ const d = {
       "key": 14
     },
     {'vids': [
+      {
+        'user': 'Sombreras',
+        'link': 'https://youtu.be/TU0cVJgI0V0',
+        'percent': 100,
+        },
+        
       ],
       'name': 'Laughterhouse',
       'author': 'Zippiks [Domesz]',
@@ -633,7 +639,7 @@ const d = {
       "id": "3607",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4QVNtcaEeT0",
-      "key": 30
+      "key": 33
     }, {
       "vids": [
         {
@@ -647,7 +653,7 @@ const d = {
       "id": "5130",
       "percentToQualify": 75,
       "verificationVid": "https://youtu.be/sE8yXUJ_JNc",
-      "key": 33
+      "key": 34
     }, 
     {
       "vids": [
@@ -662,7 +668,7 @@ const d = {
       "id": "6622",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=g9rRYmYzor8",
-      "key": 34
+      "key": 35
     }, {
       "vids": [
         {
@@ -676,7 +682,7 @@ const d = {
       "id": "5132",
       "percentToQualify": 90,
       "verificationVid": "https://youtu.be/P8OJlJXaakg",
-      "key": 35
+      "key": 36
     }, {
       "vids": [
         {
@@ -706,7 +712,7 @@ const d = {
       "percentToQualify": 100,
       "verificationVid": "",
       "extra": "https://drive.google.com/drive/folders/1rDFawlkILy2JJwXx-9j5wWWRmo-emZK-",
-      "key": 36
+      "key": 37
     }, 
     {
       "vids": [
@@ -717,7 +723,7 @@ const d = {
       "id": "4444",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/9azBEBac35o",
-      "key": 37
+      "key": 38
     },
     {
       "vids": [
@@ -728,7 +734,7 @@ const d = {
       "id": "5791",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/7DX7H5nkVcM",
-      "key": 38
+      "key": 39
     },
     {
       "vids": [
@@ -739,7 +745,7 @@ const d = {
       "id": "6808",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/NfcDs5PcN0k",
-      "key": 39
+      "key": 40
     },
     {
 		"vids": [
@@ -759,7 +765,7 @@ const d = {
 		"id": "6817",
 		"percentToQualify": 100,
 		"verificationVid": "https://youtu.be/pypC2W5F7Mk",
-		"key": 40
+		"key": 41
 	  }, 
     {
       "vids": [
@@ -784,7 +790,7 @@ const d = {
       "id": "6302",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=gYuiJlZz_mA",
-      "key": 41
+      "key": 42
     },
     {
       "vids": [
@@ -824,7 +830,7 @@ const d = {
       "id": "2330",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/LKFuptMOgTc?t=240",
-      "key": 42
+      "key": 43
     },
     {
       "vids": [
@@ -854,7 +860,7 @@ const d = {
       "id": "3271",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/xtIgqMMq_ro",
-      "key": 43
+      "key": 44
     }, {
       "vids": [
         {
@@ -873,8 +879,17 @@ const d = {
       "id": "3841",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/v7rWaUBBZJk",
-      "key": 44
+      "key": 45
     },
+    {'vids': [
+      ],
+      'name': 'Heisenberg',
+      'author': 'Brody9999',
+      'id': '8541',
+      'percentToQualify': 100,
+      'verificationVid': 'https://www.youtube.com/watch?v=kL36NvGYXW0',
+      'key': 46,
+      },
     {
       "vids": [
         {
@@ -888,7 +903,7 @@ const d = {
       "id": "5900",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/pQoUwwL_l-E",
-      "key": 45
+      "key": 47
     },
     {
       "vids": [
@@ -908,7 +923,7 @@ const d = {
       "id": "5163",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/U_8KSb1KFa0",
-      "key": 46
+      "key": 48
     }, {
       "vids": [
         {
@@ -927,7 +942,7 @@ const d = {
       "id": "3229",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/4S3Ip48OV3U",
-      "key": 47
+      "key": 49
     },  
      {
       "vids": [
@@ -947,7 +962,7 @@ const d = {
       "id": "7179",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=iusv9qHc6Bs",
-      "key": 48
+      "key": 50
     },
     {
       "vids": [
@@ -977,7 +992,7 @@ const d = {
       "id": "317",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/0Egcd_WcnJI",
-      "key": 49
+      "key": 51
     },
   {
       "vids": [
@@ -1037,7 +1052,7 @@ const d = {
       "id": "176",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Mlq2lXM657I",
-      "key": 50
+      "key": 52
           },
     {
       "vids": [
@@ -1048,7 +1063,7 @@ const d = {
       "id": "7270",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/Ia_ey0HwQQQ",
-      "key": 51
+      "key": 53
     },
     {
       "vids": [
@@ -1163,7 +1178,7 @@ const d = {
       "id": "5133",
       "percentToQualify": 100,
       "verificationVid": "https://youtu.be/boBQUDtTBOo",
-      "key": 52
+      "key": 54
     },
      {
        "vids": [
@@ -1193,7 +1208,7 @@ const d = {
        "id": "7425",
        "percentToQualify": 100,
        "verificationVid": "https://youtu.be/3smxxmj3W8k",
-       "key": 53
+       "key": 55
      },
     {
       "vids": [
@@ -1302,7 +1317,7 @@ const d = {
       "id": "58",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=hi1zAE6ozQ8",
-      "key": 54
+      "key": 56
     },
     {
       "vids": [
@@ -1407,14 +1422,13 @@ const d = {
             'link': 'https://www.youtube.com/watch?v=GfuvfJRXAEY',
             'percent': 100,
             },
-        
       ],
       "name": "Temple of Demons",
       "author": "maxo5 [Monstrosity]",
       "id": "83",
       "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=kJt0-nk1A5o",
-      "key": 55
+      "key": 57
     },
     /*=================================================================================*/
 ],
